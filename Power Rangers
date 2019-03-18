@@ -1,0 +1,11 @@
+Name: 
+     PowerRangers
+Members: 
+    Luis Dutra, Raone Costa, Eliunes Donida, Lendro F Nunes, Roberto Ramires
+Problem: 
+    Assert movies recomendation based on user profile, preferences and history of watched movies.
+Problem Type:
+    Classification
+DataSource:
+    Public data on Kaggle about Movie Reviews from IMDB, with the folowing columns Rank, Title, Genre, 
+    Description, Director, Actor, Year, Run Time(min), Rating, Votes, Revenue, Metascore.
