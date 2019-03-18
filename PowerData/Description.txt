@@ -1,0 +1,11 @@
+Name: 
+     PowerData
+Members: 
+    Andre Ramme, Giovani Silva, Guilherme Scha, Michel Trettim
+Problem: 
+    Predict Energy Generation by Source
+Problem Type:
+    Regression 
+DataSource:
+    Public data on brazilian energy generation and comsuption - Government ANEEL
+	Columns in dataset: Source, Generated Energy, Date by month
