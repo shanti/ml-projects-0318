@@ -1,0 +1,16 @@
+Regression:
+- Predict how many alerts/incidents we received after some event, like patches, outages, etc.
+Once we have such info, we'll know the downtime and how many costumers were affected.
+ 
+What info we need to collect:
+1- How many patches did we have in the last 6 months?
+2- How many alerts/incidents were created 24hs after the patche has been applied?
+3- Is the operational system patched the same than the alert/incident?
+4- How many applications were affected during the patch?
+5- Is the alert/incident linked/related to the application affected by the patch? E.g.: DB Oracle (Linux) patched may affected a Web Application running on Windows (using the data from Oracle DB)
+ 
+Info source: eView data, email reports and ServiceNow data.
+ 
+Next state: classification
+- Predict what kind of incidents we received during a patch or outage. 
+Once we have such info, we'll know what teams we need to engage to bring the systems up again. 
