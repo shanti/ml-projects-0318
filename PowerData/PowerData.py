@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[42]:
+# In[100]:
 
 
 # Pacotes necessários para a análise exploratória
@@ -9,9 +9,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+from pathlib import Path
 
 
-# In[43]:
+# In[101]:
 
 
 # Função para plotagem dos mapas de correlação
@@ -20,56 +21,76 @@ def plot_heatmap(height, data):
    return sns.heatmap(data.corr(), vmin=-1, center=0, vmax=1)
 
 
-# In[59]:
+# In[103]:
 
 
-data=pd.read_csv('http://www.aneel.gov.br/dados/relatorios?p_p_id=dadosabertos_WAR_dadosabertosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=gerarGeracaoFonteCSV&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1')
+try:
+    my_abs_path = Path("data.csv").resolve(strict=True)
+except FileNotFoundError:
+    data=pd.read_csv('http://www.aneel.gov.br/dados/relatorios?p_p_id=dadosabertos_WAR_dadosabertosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=gerarGeracaoFonteCSV&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1')
+    data.to_csv('data.csv')
+else:
+    data=pd.read_csv('data.csv')
 
 
-# In[60]:
+# In[104]:
 
 
 data.head()
 
 
-# In[69]:
+# In[105]:
 
 
 data['competencia'] = data['anoReferencia'] + data['mesReferencia'] / 12 - 1/12
 data.head()
 
 
-# In[71]:
+# In[108]:
 
 
-data[data['nomFonteGeracao'] == 0].sort_values(by=['competencia'])
+data[data['nomFonteGeracao'] == 'Biomassas'].sort_values(by=['competencia'])
 
 
-# In[63]:
+# In[109]:
 
 
 data[data['nomFonteGeracao'] == 'Biomassas'].head()
 
 
-# In[64]:
+# In[110]:
 
 
 # Imprime a matriz de correlação entre as variáveis
 ax = plot_heatmap(10, data)
 
 
-# In[65]:
+# In[111]:
 
 
-from sklearn.preprocessing import LabelEncoder
-#set(data['nomFonteGeracao'])
+print(set(data['nomFonteGeracao']))
+
+
+# In[112]:
+
+
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 label_encoder = LabelEncoder()
-#Agora faça a transformação dos dados com o método fit_transform(), veja:
+onehot_encoder = OneHotEncoder(sparse=False)
+data['FonteGeracao'] = label_encoder.fit_transform(data['nomFonteGeracao'])
+pd.get_dummies(data['FonteGeracao']).rename(index=str, columns={0: "a", "1": "c"}).tail()
 
-data['nomFonteGeracao'] = label_encoder.fit_transform(data['nomFonteGeracao'])
-#A variável valores_numericos recebe a lista de valores já codificados, veja:
 
-data['nomFonteGeracao'].head()
+# In[115]:
+
+
+data[['nomFonteGeracao','FonteGeracao']].tail(10)
+
+
+# In[116]:
+
+
+data.tail()
 
 
 # In[66]:
@@ -85,23 +106,16 @@ ax = plot_heatmap(10, data)
 data[data['nomFonteGeracao'] == 0].sort_values(by=['competencia'])
 
 
-# In[77]:
+# In[120]:
 
 
-filtr = data[(data['nomFonteGeracao'] == 0) & (data['anoReferencia'] > 2010)]
+filtr = data[(data['FonteGeracao'] == 5) & (data['anoReferencia'] > 2010)]
 plt.scatter(filtr['competencia'], filtr['mdaEnergiaDespachadaGWh'])
 
 
-# In[78]:
+# In[118]:
 
 
-filtr = data[(data['nomFonteGeracao'] == 1) & (data['anoReferencia'] > 2010)]
-plt.scatter(filtr['competencia'], filtr['mdaEnergiaDespachadaGWh'])
-
-
-# In[81]:
-
-
-filtr = data[(data['nomFonteGeracao'] == 2) & (data['anoReferencia'] > 2010)]
+filtr = data[(data['FonteGeracao'] == 6) & (data['anoReferencia'] > 2010)]
 plt.scatter(filtr['competencia'], filtr['mdaEnergiaDespachadaGWh'])
 
