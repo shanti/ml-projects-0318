@@ -9,6 +9,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
 from pathlib import Path
 
 
@@ -25,12 +26,13 @@ def plot_heatmap(height, data):
 
 
 try:
-    my_abs_path = Path("data.csv").resolve(strict=True)
+    data_path = os.path.join(os.path.dirname(os.path.realpath('__file__')),'PowerData','data.csv')
+    my_abs_path = Path(data_path).resolve(strict=True)
 except FileNotFoundError:
     data=pd.read_csv('http://www.aneel.gov.br/dados/relatorios?p_p_id=dadosabertos_WAR_dadosabertosportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=gerarGeracaoFonteCSV&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=1')
-    data.to_csv('data.csv')
+    data.to_csv(data_path)
 else:
-    data=pd.read_csv('data.csv')
+    data=pd.read_csv(data_path)
 
 
 # In[104]:
@@ -80,16 +82,7 @@ onehot_encoder = OneHotEncoder(sparse=False)
 data['FonteGeracao'] = label_encoder.fit_transform(data['nomFonteGeracao'])
 pd.get_dummies(data['FonteGeracao']).rename(index=str, columns={0: "a", "1": "c"}).tail()
 
-
-# In[115]:
-
-
-data[['nomFonteGeracao','FonteGeracao']].tail(10)
-
-
-# In[116]:
-
-
+# In[117]:
 data.tail()
 
 
@@ -103,19 +96,17 @@ ax = plot_heatmap(10, data)
 # In[67]:
 
 
-data[data['nomFonteGeracao'] == 0].sort_values(by=['competencia'])
+data = data.sort_values(by=['competencia'])
+data = data.reset_index(drop=True)
+data.head()
 
 
 # In[120]:
 
+legend = data[['nomFonteGeracao','FonteGeracao']].tail(10).sort_values(by=['FonteGeracao'])
+legend = legend.reset_index(drop=True)
 
-filtr = data[(data['FonteGeracao'] == 5) & (data['anoReferencia'] > 2010)]
-plt.scatter(filtr['competencia'], filtr['mdaEnergiaDespachadaGWh'])
-
-
-# In[118]:
-
-
-filtr = data[(data['FonteGeracao'] == 6) & (data['anoReferencia'] > 2010)]
-plt.scatter(filtr['competencia'], filtr['mdaEnergiaDespachadaGWh'])
-
+plt.figure(figsize=(15,10))
+for index, row in legend.iterrows():
+    plt.plot('competencia','mdaEnergiaDespachadaGWh',data=data[(data['FonteGeracao'] == index) & (data['anoReferencia'] > 2012)], label=row.nomFonteGeracao)
+plt.legend()
