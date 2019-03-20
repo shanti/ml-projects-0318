@@ -124,17 +124,17 @@ data = data.drop(columns=['Unnamed: 0','ideGeracaoFonte','nomFonteGeracao','dthP
 data.head()
 
 
-# In[16]:
+# In[35]:
 
 
 plt.figure(figsize=(15,10))
 for index, row in legend.iterrows():
-    if index not in [5]:
-        plt.plot('competencia','mdaEnergiaDespachadaGWh',data=data[(data['FonteGeracao'] == index) & (data['anoReferencia'] > 2012)], label=str(index) + ' - ' + row.nomFonteGeracao)
+    if index not in [5,9,8,1,2,7]:
+        plt.plot('competencia','mdaEnergiaDespachadaGWh',data=data[(data['FonteGeracao'] == index) & (data['anoReferencia'] > 2002)], label=str(index) + ' - ' + row.nomFonteGeracao)
 plt.legend()
 
 
-# In[17]:
+# In[59]:
 
 
 data['mdaEnergiaDespachadaGWh'] = data['mdaEnergiaDespachadaGWh'].fillna(0)
@@ -145,4 +145,73 @@ data['mdaEnergiaDespachadaGWh'] = data['mdaEnergiaDespachadaGWh'].fillna(0)
 
 # Imprime a matriz de correlação entre as variáveis
 ax = plot_heatmap(10, data)
+
+
+# In[60]:
+
+
+t = data[['competencia','mdaEnergiaDespachadaGWh']][(data['FonteGeracao'] == 0)]
+t.head()
+
+
+# In[61]:
+
+
+t['mdaEnergiaDespachadaGWh + 1'] = t['mdaEnergiaDespachadaGWh'].shift(-1)
+t.head()
+
+
+# In[83]:
+
+
+train = t[t['competencia'] < 2016]
+test = t[t['competencia'] >= 2016]
+x_train = train['mdaEnergiaDespachadaGWh']
+y_train = train['mdaEnergiaDespachadaGWh + 1']
+x_test = test['mdaEnergiaDespachadaGWh']
+y_test = test['mdaEnergiaDespachadaGWh + 1']
+
+
+# In[76]:
+
+
+x_train.head()
+
+
+# In[79]:
+
+
+y_train.head()
+
+
+# In[110]:
+
+
+from sklearn.linear_model import LinearRegression
+lr = LinearRegression()
+x_train = x_train.values.reshape(-1, 1)
+y_train = y_train.values.reshape(-1, 1)
+lrModel = lr.fit(x_train, y_train)
+
+
+# In[112]:
+
+
+import math
+print('R²: ',lrModel.score(x_train, y_train))
+print('Corr.: ',math.sqrt(lrModel.score(x_train, y_train)))
+
+
+# In[113]:
+
+
+x_test.values.reshape(-1, 1).shape
+y_pred = lrModel.predict(x_test.values.reshape(-1, 1))
+
+
+# In[115]:
+
+
+plt.plot(test['competencia'],test['mdaEnergiaDespachadaGWh'])
+plt.plot(test['competencia'],y_pred)
 
