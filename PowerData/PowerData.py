@@ -5,6 +5,7 @@
 
 
 # Pacotes necessários para a análise exploratória
+import datetime
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -43,8 +44,7 @@ data.head()
 
 # In[5]:
 
-
-data['competencia'] = data['anoReferencia'] + data['mesReferencia'] / 12 - 1/12
+data['competencia'] = pd.to_datetime((data.anoReferencia*10000+data.mesReferencia*100+1).apply(str),format='%Y%m%d')
 data.head()
 
 
@@ -150,7 +150,7 @@ ax = plot_heatmap(10, data)
 # In[60]:
 
 
-t = data[['competencia','mdaEnergiaDespachadaGWh']][(data['FonteGeracao'] == 0)]
+t = data[['competencia','mdaEnergiaDespachadaGWh']][(data['FonteGeracao'] == 0) & (data['competencia'] >= datetime.datetime(2012,1,1))]
 t.head()
 
 
@@ -164,33 +164,18 @@ t.head()
 # In[83]:
 
 
-train = t[t['competencia'] < 2016]
-test = t[t['competencia'] >= 2016]
-x_train = train['mdaEnergiaDespachadaGWh']
-y_train = train['mdaEnergiaDespachadaGWh + 1']
-x_test = test['mdaEnergiaDespachadaGWh']
-y_test = test['mdaEnergiaDespachadaGWh + 1']
-
-
-# In[76]:
-
-
-x_train.head()
-
-
-# In[79]:
-
-
-y_train.head()
-
+train = t[t['competencia'] < datetime.datetime(2016,1,1)]
+test = t[t['competencia'] >= datetime.datetime(2016,1,1)]
+x_train = train['mdaEnergiaDespachadaGWh'].values.reshape(-1, 1)
+y_train = train['mdaEnergiaDespachadaGWh + 1'].values.reshape(-1, 1)
+x_test = test['mdaEnergiaDespachadaGWh'].values.reshape(-1, 1)
+y_test = test['mdaEnergiaDespachadaGWh + 1'].values.reshape(-1, 1)
 
 # In[110]:
 
 
 from sklearn.linear_model import LinearRegression
 lr = LinearRegression()
-x_train = x_train.values.reshape(-1, 1)
-y_train = y_train.values.reshape(-1, 1)
 lrModel = lr.fit(x_train, y_train)
 
 
@@ -204,14 +189,68 @@ print('Corr.: ',math.sqrt(lrModel.score(x_train, y_train)))
 
 # In[113]:
 
-
-x_test.values.reshape(-1, 1).shape
-y_pred = lrModel.predict(x_test.values.reshape(-1, 1))
+y_pred = lrModel.predict(x_test)
 
 
 # In[115]:
 
 
+plt.figure(figsize=(15,5))
 plt.plot(test['competencia'],test['mdaEnergiaDespachadaGWh'])
 plt.plot(test['competencia'],y_pred)
 
+# In[150]:
+plt.plot(t.competencia, t.mdaEnergiaDespachadaGWh)
+
+# In[160]:
+time_data = data[['competencia','mdaEnergiaDespachadaGWh']][(data['FonteGeracao'] == 6)]
+time_data = time_data.set_index('competencia')
+time_data.index
+#time_data.head()
+
+# In[161]:
+time_data.plot(figsize=(15, 6))
+plt.show()
+
+# In[162]:
+import statsmodels.api as sm
+from pylab import rcParams
+rcParams['figure.figsize'] = 18, 8
+decomposition = sm.tsa.seasonal_decompose(time_data, model='additive')
+fig = decomposition.plot()
+plt.show()
+
+# In[163]:
+mod = sm.tsa.statespace.SARIMAX(time_data,
+                                order=(1, 1, 1),
+                                seasonal_order=(1, 1, 0, 12),
+                                enforce_stationarity=False,
+                                enforce_invertibility=False)
+results = mod.fit()
+print(results.summary().tables[1])
+
+# In[164]:
+pred = results.get_prediction(start=pd.to_datetime('2017-01-01'), dynamic=False)
+pred_ci = pred.conf_int()
+ax = time_data['2014':].plot(label='observed')
+pred.predicted_mean.plot(ax=ax, label='One-step ahead Forecast', alpha=.7, figsize=(14, 7))
+ax.fill_between(pred_ci.index,
+                pred_ci.iloc[:, 0],
+                pred_ci.iloc[:, 1], color='k', alpha=.2)
+ax.set_xlabel('Date')
+ax.set_ylabel('Furniture Sales')
+plt.legend()
+plt.show()
+
+# In[165]:
+pred_uc = results.get_forecast(steps=100)
+pred_ci = pred_uc.conf_int()
+ax = time_data.plot(label='observed', figsize=(14, 7))
+pred_uc.predicted_mean.plot(ax=ax, label='Forecast')
+ax.fill_between(pred_ci.index,
+                pred_ci.iloc[:, 0],
+                pred_ci.iloc[:, 1], color='k', alpha=.25)
+ax.set_xlabel('Date')
+ax.set_ylabel('Generated GWh')
+plt.legend()
+plt.show()
