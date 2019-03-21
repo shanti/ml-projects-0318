@@ -60,3 +60,15 @@ Capao,Beach,2,0,America,1,Cheap,200,0,Yes,1,1,0,0,0,Andre
 Daniela,Beach,3,0,America,1,Cheap,300,0,Yes,1,1,0,0,0,Andre
 Garibaldi,City,3,0,America,1,Cheap,300,0,Yes,1,0,1,0,0,Andre
 Praia do Forte,Beach,4,1,America,1,Cheap,400,0,Yes,1,1,0,0,0,Andre
+abc1,Mountain,4,1,Europe,2,Expensive,12000,0,No,0,0,0,0,1,user1
+abc2,Mountain,4,1,America,1,Average,4000,0,No,0,0,0,0,1,user2
+abc3,Beach,4,1,America,1,Expensive,6000,0,No,0,1,0,0,0,user3
+abc4,City,4,1,America,1,Expensive,6000,0,No,0,0,1,0,0,user4
+abc5,City,4,1,America,1,Expensive,6000,0,No,0,0,1,0,0,user5
+abc6,City,4,1,America,1,Cheap,400,0,No,0,0,1,0,0,user6
+abc7,City,4,1,America,1,Cheap,400,0,No,0,0,1,0,0,user7
+abc8,City,4,1,America,1,Cheap,400,0,No,0,0,1,0,0,user8
+abc9,City,4,1,America,1,Expensive,6000,0,No,0,0,1,0,0,user9
+abc10,City,4,1,Europe,2,Expensive,12000,0,No,0,0,1,0,0,user10
+abc11,Mountain,4,1,Europe,2,average,8000,0,No,0,0,0,0,1,user11
+abc12,Beach,4,1,Australia,6,average,24000,0,No,0,1,0,0,0,user12
