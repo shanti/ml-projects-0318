@@ -1,0 +1,1001 @@
+Rating,MovieId,Title,Director,LeadActor,Votes,CriticScore,IsAction,IsAdventure,IsAnimation,IsBiography,IsComedy,IsCrime,IsDrama,IsRomance,IsFantasy,IsHorror,IsMistery,IsHistory,IsFamily,IsSport,IsWar,IsWestern,IsSciFi,IsThriller
+8.1,1,Guardians of the Galaxy,James Gunn,Chris Pratt,757074,76,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,2,Prometheus,Ridley Scott,Noomi Rapace,485820,65,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.3,3,Split,M. Night Shyamalan,James McAvoy,157606,62,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.2,4,Sing,Christophe Lourdelet,Matthew McConaughey,60545,59,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.2,5,Suicide Squad,David Ayer,Will Smith,393727,40,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.1,6,The Great Wall,Yimou Zhang,Matt Damon,56036,42,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8.3,7,La La Land,Damien Chazelle,Ryan Gosling,258682,93,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,8,Mindhorn,Sean Foley,Essie Davis,2490,71,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,9,The Lost City of Z,James Gray,Charlie Hunnam,7188,78,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,10,Passengers,Morten Tyldum,Jennifer Lawrence,192177,41,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.5,11,Fantastic Beasts and Where to Find Them,David Yates,Eddie Redmayne,232072,66,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.8,12,Hidden Figures,Theodore Melfi,Taraji P. Henson,93103,74,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.9,13,Rogue One,Gareth Edwards,Felicity Jones,323118,65,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.7,14,Moana,Ron Clements,Auli'i Cravalho,118151,81,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,15,Colossal,Nacho Vigalondo,Anne Hathaway,8612,70,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,16,The Secret Life of Pets,Chris Renaud,Louis C.K.,120259,61,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8.2,17,Hacksaw Ridge,Mel Gibson,Andrew Garfield,211760,71,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.7,18,Jason Bourne,Paul Greengrass,Matt Damon,150823,58,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8.1,19,Lion,Garth Davis,Dev Patel,102061,69,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,20,Arrival,Denis Villeneuve,Amy Adams,340798,81,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.7,21,Gold,Stephen Gaghan,Matthew McConaughey,19053,49,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.9,22,Manchester by the Sea,Kenneth Lonergan,Casey Affleck,134213,96,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,23,Hounds of Love,Ben Young,Emma Booth,1115,72,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+6.5,24,Trolls,Walt Dohrn,Anna Kendrick,38552,56,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3,25,Independence Day: Resurgence,Roland Emmerich,Liam Hemsworth,127553,32,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.8,26,Paris pieds nus,Dominique Abel,Fiona Gordon,222,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8.3,27,Bahubali: The Beginning,S.S. Rajamouli,Prabhas,76193,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+4.7,28,Dead Awake,Phillip Guzman,Jocelin Donahue,523,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.2,29,Bad Moms,Jon Lucas,Mila Kunis,66540,60,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.9,30,Assassin's Creed,Justin Kurzel,Michael Fassbender,112813,36,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,31,Why Him?,John Hamburg,Zoey Deutch,48123,39,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.5,32,Nocturnal Animals,Tom Ford,Amy Adams,126030,67,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.1,33,X-Men: Apocalypse,Bryan Singer,James McAvoy,275510,52,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,34,Deadpool,Tim Miller,Ryan Reynolds,627797,65,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.6,35,Resident Evil: The Final Chapter,Paul W.S. Anderson,Milla Jovovich,46165,49,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+7.9,36,Captain America: Civil War,Anthony Russo,Chris Evans,411656,75,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8.6,37,Interstellar,Christopher Nolan,Matthew McConaughey,1047747,74,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+7.6,38,Doctor Strange,Scott Derrickson,Benedict Cumberbatch,293732,72,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.9,39,The Magnificent Seven,Antoine Fuqua,Denzel Washington,122853,54,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+7.1,40,5/25/1977,Patrick Read Johnson,John Francis Daley,241,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,41,Sausage Party,Greg Tiernan,Seth Rogen,120690,66,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.5,42,Moonlight,Barry Jenkins,Mahershala Ali,135095,99,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2.7,43,Don't Fuck in the Woods,Shawn Burkett,Brittany Blanton,496,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.2,44,The Founder,John Lee Hancock,Michael Keaton,37033,66,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.3,45,Lowriders,Ricardo de Montreuil,Gabriel Chavarria,279,57,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,46,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,Johnny Depp,395025,45,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.3,47,Miss Sloane,John Madden,Jessica Chastain,17818,64,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.6,48,Fallen,Scott Hicks,Hermione Corfield,5103,,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+7.1,49,Star Trek Beyond,Justin Lin,Chris Pine,164567,68,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3.7,50,The Last Face,Sean Penn,Charlize Theron,987,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,51,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,Daisy Ridley,661608,81,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.8,52,Underworld: Blood Wars,Anna Foerster,Kate Beckinsale,41362,23,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.6,53,Mother's Day,Garry Marshall,Jennifer Aniston,20221,18,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,54,John Wick,Chad Stahelski,Keanu Reeves,321933,68,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9,55,The Dark Knight,Christopher Nolan,Christian Bale,1791916,82,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,56,Silence,Martin Scorsese,Andrew Garfield,49190,79,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.2,57,Don't Breathe,Fede Alvarez,Stephen Lang,121103,71,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+7.4,58,Me Before You,Thea Sharrock,Emilia Clarke,113322,51,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7,59,Their Finest,Lone Scherfig,Gemma Arterton,3739,76,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.5,60,Sully,Clint Eastwood,Tom Hanks,137608,74,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,61,Batman v Superman: Dawn of Justice,Zack Snyder,Ben Affleck,472307,44,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.8,62,The Autopsy of Jane Doe,André Øvredal,Brian Cox,35870,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.5,63,The Girl on the Train,Tate Taylor,Emily Blunt,102177,48,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+4.1,64,Fifty Shades of Grey,Sam Taylor-Johnson,Dakota Johnson,244474,46,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+8.5,65,The Prestige,Christopher Nolan,Christian Bale,913152,66,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+7.7,66,Kingsman: The Secret Service,Matthew Vaughn,Colin Firth,440209,58,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.4,67,Patriots Day,Peter Berg,Mark Wahlberg,39784,69,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+8.1,68,Mad Max: Fury Road,George Miller,Tom Hardy,632842,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.5,69,Wakefield,Robin Swicord,Bryan Cranston,291,61,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,70,Deepwater Horizon,Peter Berg,Mark Wahlberg,89849,68,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.9,71,The Promise,Terry George,Oscar Isaac,149791,49,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.1,72,Allied,Robert Zemeckis,Brad Pitt,78079,60,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.5,73,A Monster Calls,J.A. Bayona,Lewis MacDougall,39134,76,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.8,74,Collateral Beauty,David Frankel,Will Smith,43977,23,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8.1,75,Zootopia,Byron Howard,Ginnifer Goodwin,296853,78,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,76,Pirates of the Caribbean: At World's End,Gore Verbinski,Johnny Depp,498821,50,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8.1,77,The Avengers,Joss Whedon,Robert Downey Jr.,1045588,69,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8.3,78,Inglourious Basterds,Quentin Tarantino,Brad Pitt,959065,69,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+7.3,79,Pirates of the Caribbean: Dead Man's Chest,Gore Verbinski,Johnny Depp,552027,53,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.3,80,Ghostbusters,Paul Feig,Melissa McCarthy,147717,60,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8.8,81,Inception,Christopher Nolan,Leonardo DiCaprio,1583625,74,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.9,82,Captain Fantastic,Matt Ross,Viggo Mortensen,105081,72,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.2,83,The Wolf of Wall Street,Martin Scorsese,Leonardo DiCaprio,865134,75,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8.1,84,Gone Girl,David Fincher,Ben Affleck,636243,79,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,85,Furious Seven,James Wan,Vin Diesel,301249,67,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+7,86,Jurassic World,Colin Trevorrow,Chris Pratt,455169,59,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.4,87,Live by Night,Ben Affleck,Ben Affleck,27869,49,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.8,88,Avatar,James Cameron,Sam Worthington,935408,83,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.8,89,The Hateful Eight,Quentin Tarantino,Samuel L. Jackson,341170,68,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.4,90,The Accountant,Gavin O'Connor,Ben Affleck,162122,51,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,91,Prisoners,Denis Villeneuve,Hugh Jackman,431185,74,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7,92,Warcraft,Duncan Jones,Travis Fimmel,187547,32,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8.1,93,The Help,Tate Taylor,Emma Stone,342429,62,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,94,War Dogs,Todd Phillips,Jonah Hill,106463,57,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.4,95,Avengers: Age of Ultron,Joss Whedon,Robert Downey Jr.,516895,66,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.4,96,The Nice Guys,Shane Black,Russell Crowe,175067,70,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8.6,97,Kimi no na wa,Makoto Shinkai,Ryûnosuke Kamiki,34110,79,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+5.8,98,The Void,Jeremy Gillespie,Aaron Poole,9247,62,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+6.3,99,Personal Shopper,Olivier Assayas,Kristen Stewart,10181,77,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+8.5,100,The Departed,Martin Scorsese,Leonardo DiCaprio,937414,85,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7,101,Legend,Brian Helgeland,Tom Hardy,108836,55,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7,102,Thor,Kenneth Branagh,Chris Hemsworth,570814,57,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,103,The Martian,Ridley Scott,Matt Damon,556097,80,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+7.9,104,Contratiempo,Oriol Paulo,Mario Casas,7204,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+7.3,105,The Man from U.N.C.L.E.,Guy Ritchie,Henry Cavill,202973,56,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.7,106,Hell or High Water,David Mackenzie,Chris Pine,115546,88,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+5.4,107,The Comedian,Taylor Hackford,Robert De Niro,1954,40,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.3,108,The Legend of Tarzan,David Yates,Alexander Skarsgård,117590,44,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,109,All We Had,Katie Holmes,Eve Lindley,1004,48,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.7,110,Ex Machina,Alex Garland,Alicia Vikander,339797,78,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.3,111,The Belko Experiment,Greg McLean,John Gallagher Jr.,3712,44,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8.1,112,12 Years a Slave,Steve McQueen,Chiwetel Ejiofor,486338,96,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.1,113,The Bad Batch,Ana Lily Amirpour,Keanu Reeves,512,65,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+7.7,114,300,Zack Snyder,Gerard Butler,637104,52,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+8.1,115,Harry Potter and the Deathly Hallows: Part 2,David Yates,Daniel Radcliffe,590595,87,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+5.8,116,Office Christmas Party,Josh Gordon,Jason Bateman,30761,42,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,117,The Neon Demon,Nicolas Winding Refn,Elle Fanning,50359,51,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8.8,118,Dangal,Nitesh Tiwari,Aamir Khan,48969,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,119,10 Cloverfield Lane,Dan Trachtenberg,John Goodman,192968,76,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7.4,120,Finding Dory,Andrew Stanton,Ellen DeGeneres,157026,77,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,121,Miss Peregrine's Home for Peculiar Children,Tim Burton,Eva Green,101058,57,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+6.7,122,Divergent,Neil Burger,Shailene Woodley,362093,48,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6,123,Mike and Dave Need Wedding Dates,Jake Szymanski,Zac Efron,53183,51,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.4,124,Boyka: Undisputed IV,Todor Chapkanov,Scott Adkins,10428,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8.5,125,The Dark Knight Rises,Christopher Nolan,Christian Bale,1222645,78,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.5,126,The Jungle Book,Jon Favreau,Neel Sethi,198243,77,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+5.7,127,Transformers: Age of Extinction,Michael Bay,Mark Wahlberg,255483,32,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.6,128,Nerve,Henry Joost,Emma Roberts,69651,58,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,129,Mamma Mia!,Phyllida Lloyd,Meryl Streep,153481,51,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,130,The Revenant,Alejandro González Iñárritu,Leonardo DiCaprio,499424,76,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.3,131,Fences,Denzel Washington,Denzel Washington,50953,79,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,132,Into the Woods,Rob Marshall,Anna Kendrick,109756,69,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,133,The Shallows,Jaume Collet-Serra,Blake Lively,78328,59,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+8.5,134,Whiplash,Damien Chazelle,Miles Teller,477276,88,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,135,Furious 6,Justin Lin,Vin Diesel,318051,61,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+7.3,136,The Place Beyond the Pines,Derek Cianfrance,Ryan Gosling,200090,68,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+8.1,137,No Country for Old Men,Ethan Coen,Tommy Lee Jones,660286,91,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.3,138,The Great Gatsby,Baz Luhrmann,Leonardo DiCaprio,386102,55,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8.1,139,Shutter Island,Martin Scorsese,Leonardo DiCaprio,855604,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.1,140,Brimstone,Martin Koolhoven,Dakota Fanning,13004,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+8,141,Star Trek,J.J. Abrams,Chris Pine,526324,82,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.2,142,Diary of a Wimpy Kid,Thor Freudenthal,Zachary Gordon,34184,56,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.8,143,The Big Short,Adam McKay,Christian Bale,246360,81,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.2,144,Room,Lenny Abrahamson,Brie Larson,224132,86,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.4,145,Django Unchained,Quentin Tarantino,Jamie Foxx,1039115,81,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+8.1,146,Ah-ga-ssi,Chan-wook Park,Min-hee Kim,33418,84,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.4,147,The Edge of Seventeen,Kelly Fremon Craig,Hailee Steinfeld,47694,77,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,148,Watchmen,Zack Snyder,Jackie Earle Haley,410249,56,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,149,Superbad,Greg Mottola,Michael Cera,442082,76,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,150,Inferno,Ron Howard,Tom Hanks,97623,42,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,151,The BFG,Steven Spielberg,Mark Rylance,50853,66,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.2,152,The Hunger Games,Gary Ross,Jennifer Lawrence,735604,68,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5.8,153,White Girl,Elizabeth Wood,Morgan Saylor,4299,65,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,154,Sicario,Denis Villeneuve,Emily Blunt,243230,82,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,155,Twin Peaks: The Missing Pieces,David Lynch,Chris Isaak,1973,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+4.7,156,Aliens vs Predator - Requiem,Colin Strause,Reiko Aylesworth,97618,29,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+7,157,Pacific Rim,Guillermo del Toro,Idris Elba,400519,64,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.4,158,"Crazy, Stupid, Love.",Glenn Ficarra,Steve Carell,396714,68,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.5,159,Scott Pilgrim vs. the World,Edgar Wright,Michael Cera,291457,69,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.9,160,Hot Fuzz,Edgar Wright,Simon Pegg,373244,81,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,161,Mine,Fabio Guaglione,Armie Hammer,5926,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+7,162,Free Fire,Ben Wheatley,Sharlto Copley,6946,63,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,163,X-Men: Days of Future Past,Bryan Singer,Patrick Stewart,552298,74,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.1,164,Jack Reacher: Never Go Back,Edward Zwick,Tom Cruise,78043,47,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,165,Casino Royale,Martin Campbell,Daniel Craig,495106,80,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5.2,166,Twilight,Catherine Hardwicke,Kristen Stewart,361449,56,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+6.5,167,Now You See Me 2,Jon M. Chu,Jesse Eisenberg,156567,46,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.3,168,Woman in Gold,Simon Curtis,Helen Mirren,39723,51,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.3,169,13 Hours,Michael Bay,John Krasinski,76935,48,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.8,170,Spectre,Sam Mendes,Daniel Craig,308981,60,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.9,171,Nightcrawler,Dan Gilroy,Jake Gyllenhaal,332476,76,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.9,172,Kubo and the Two Strings,Travis Knight,Charlize Theron,72778,84,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5.2,173,Beyond the Gates,Jackson Stewart,Graham Skipper,2127,59,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+8,174,Her,Spike Jonze,Joaquin Phoenix,390531,90,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+7.5,175,Frozen,Chris Buck,Kristen Bell,451894,74,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.5,176,Tomorrowland,Brad Bird,George Clooney,143069,60,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.6,177,Dawn of the Planet of the Apes,Matt Reeves,Gary Oldman,337777,79,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,178,Tropic Thunder,Ben Stiller,Ben Stiller,321442,71,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.4,179,The Conjuring 2,James Wan,Vera Farmiga,137203,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.3,180,Ant-Man,Peyton Reed,Paul Rudd,368912,64,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,181,Bridget Jones's Baby,Sharon Maguire,Renée Zellweger,43086,59,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.8,182,The VVitch: A New-England Folktale,Robert Eggers,Anya Taylor-Joy,101781,83,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7,183,Cinderella,Kenneth Branagh,Lily James,117018,67,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+5.9,184,Realive,Mateo Gil,Tom Hughes,1176,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8,185,Forushande,Asghar Farhadi,Taraneh Alidoosti,22389,85,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6,186,Love,Gaspar Noé,Aomi Muyock,24003,51,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.3,187,Billy Lynn's Long Halftime Walk,Ang Lee,Joe Alwyn,11944,53,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+6.6,188,Crimson Peak,Guillermo del Toro,Mia Wasikowska,97454,66,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+7.8,189,Drive,Nicolas Winding Refn,Ryan Gosling,461509,78,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,190,Trainwreck,Judd Apatow,Amy Schumer,106364,75,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.2,191,The Light Between Oceans,Derek Cianfrance,Michael Fassbender,27382,60,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.6,192,Below Her Mouth,April Mullen,Erika Linder,1445,42,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,193,Spotlight,Tom McCarthy,Mark Ruffalo,268282,93,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+5.8,194,Morgan,Luke Scott,Kate Mara,22107,48,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+8.2,195,Warrior,Gavin O'Connor,Tom Hardy,355722,71,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6.9,196,Captain America: The First Avenger,Joe Johnston,Chris Evans,547368,66,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.3,197,Hacker,Akan Satayev,Callan McAuliffe,3799,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+8.1,198,Into the Wild,Sean Penn,Emile Hirsch,459304,73,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,199,The Imitation Game,Morten Tyldum,Benedict Cumberbatch,532353,73,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.3,200,Central Intelligence,Rawson Marshall Thurber,Dwayne Johnson,97082,52,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.9,201,Edge of Tomorrow,Doug Liman,Tom Cruise,471815,71,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.5,202,A Cure for Wellness,Gore Verbinski,Dane DeHaan,12193,47,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+7.3,203,Snowden,Oliver Stone,Joseph Gordon-Levitt,79855,58,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.9,204,Iron Man,Jon Favreau,Robert Downey Jr.,737719,79,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.7,205,Allegiant,Robert Schwentke,Shailene Woodley,70504,33,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,206,X: First Class,Matthew Vaughn,James McAvoy,550011,65,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.5,207,Raw (II),Julia Ducournau,Garance Marillier,5435,81,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7.5,208,Paterson,Jim Jarmusch,Adam Driver,26089,90,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.8,209,Bridesmaids,Paul Feig,Kristen Wiig,227912,75,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.7,210,The Girl with All the Gifts,Colm McCarthy,Gemma Arterton,23713,67,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+6.1,211,San Andreas,Brad Peyton,Dwayne Johnson,161396,43,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.3,212,Spring Breakers,Harmony Korine,Vanessa Hudgens,114290,63,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,213,Transformers,Michael Bay,Shia LaBeouf,531112,61,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.8,214,Old Boy,Spike Lee,Josh Brolin,54679,49,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,215,Thor: The Dark World,Alan Taylor,Chris Hemsworth,443584,54,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.5,216,Gods of Egypt,Alex Proyas,Brenton Thwaites,73568,25,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.8,217,Captain America: The Winter Soldier,Anthony Russo,Chris Evans,542362,70,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.7,218,Monster Trucks,Chris Wedge,Lucas Till,7044,41,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1,219,A Dark Song,Liam Gavin,Mark Huberman,1703,67,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7.7,220,Kick-Ass,Matthew Vaughn,Aaron Taylor-Johnson,456749,66,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,221,Hardcore Henry,Ilya Naishuller,Sharlto Copley,61098,51,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.1,222,Cars,John Lasseter,Owen Wilson,283445,73,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.9,223,It Follows,David Robert Mitchell,Maika Monroe,136399,83,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.8,224,The Girl with the Dragon Tattoo,David Fincher,Daniel Craig,348551,71,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7,225,We're the Millers,Rawson Marshall Thurber,Jason Sudeikis,334867,44,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,226,American Honey,Andrea Arnold,Sasha Lane,19660,79,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,227,The Lobster,Yorgos Lanthimos,Colin Farrell,121313,82,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.4,228,Predators,Nimród Antal,Adrien Brody,179450,51,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,229,Maleficent,Robert Stromberg,Angelina Jolie,268877,56,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+4.8,230,Rupture,Steven Shainberg,Noomi Rapace,2382,35,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+8.2,231,Pan's Labyrinth,Guillermo del Toro,Ivana Baquero,498879,98,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+5.2,232,A Kind of Murder,Andy Goddard,Patrick Wilson,3305,50,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.8,233,Apocalypto,Mel Gibson,Gerardo Taracena,247926,68,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.4,234,Mission: Impossible - Rogue Nation,Christopher McQuarrie,Tom Cruise,257472,75,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.1,235,The Huntsman: Winter's War,Cedric Nicolas-Troyan,Chris Hemsworth,66766,35,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,236,The Perks of Being a Wallflower,Stephen Chbosky,Logan Lerman,377336,67,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.8,237,Jackie,Pablo Larraín,Natalie Portman,41446,81,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+3.9,238,The Disappointments Room,D.J. Caruso,Kate Beckinsale,4895,31,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+8.1,239,The Grand Budapest Hotel,Wes Anderson,Ralph Fiennes,530881,88,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.9,240,The Host,Andrew Niccol,Saoirse Ronan,96852,35,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.6,241,Fury,David Ayer,Brad Pitt,332234,64,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+8.2,242,Inside Out,Pete Docter,Amy Poehler,416689,94,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8,243,Rock Dog,Ash Brannon,Luke Wilson,1109,48,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.5,244,Terminator Genisys,Alan Taylor,Arnold Schwarzenegger,205365,38,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.9,245,Percy Jackson & the Olympians: The Lightning Thief,Chris Columbus,Logan Lerman,148949,47,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.6,246,Les Misérables,Tom Hooper,Hugh Jackman,257426,63,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.9,247,Children of Men,Alfonso Cuarón,Julianne Moore,382910,84,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+7.4,248,20th Century Women,Mike Mills,Annette Bening,14708,83,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,249,Spy,Paul Feig,Melissa McCarthy,188017,75,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8.6,250,The Intouchables,Olivier Nakache,François Cluzet,557965,57,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+4.9,251,Bonjour Anne,Eleanor Coppola,Diane Lane,178,50,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.3,252,Kynodontas,Yorgos Lanthimos,Christos Stergioglou,50946,73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.9,253,Straight Outta Compton,F. Gary Gray,O'Shea Jackson Jr.,139831,72,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.7,254,The Amazing Spider-Man 2,Marc Webb,Andrew Garfield,342183,53,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.5,255,The Conjuring,James Wan,Patrick Wilson,330305,68,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.8,256,The Hangover,Todd Phillips,Zach Galifianakis,611563,73,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8,257,Battleship,Peter Berg,Alexander Skarsgård,210349,41,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.6,258,Rise of the Planet of the Apes,Rupert Wyatt,James Franco,422290,68,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.4,259,Lights Out,David F. Sandberg,Teresa Palmer,69823,58,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.1,260,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,Joseph Cedar,Richard Gere,664,76,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.8,261,Birdman or (The Unexpected Virtue of Ignorance),Alejandro González Iñárritu,Michael Keaton,440299,88,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,262,Black Swan,Darren Aronofsky,Natalie Portman,581518,79,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.2,263,Dear White People,Justin Simien,Tyler James Williams,21715,79,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,264,Nymphomaniac: Vol. I,Lars von Trier,Charlotte Gainsbourg,90556,64,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,265,Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,Megan Fox,59312,40,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.9,266,Knock Knock,Eli Roth,Keanu Reeves,53441,53,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+6,267,Dirty Grandpa,Dan Mazer,Robert De Niro,75137,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.5,268,Cloud Atlas,Tom Tykwer,Tom Hanks,298651,55,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.7,269,X-Men Origins: Wolverine,Gavin Hood,Hugh Jackman,388447,40,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3.7,270,Satanic,Jeffrey G. Hunt,Sarah Hyland,2384,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.8,271,Skyfall,Sam Mendes,Daniel Craig,547386,81,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.9,272,The Hobbit: An Unexpected Journey,Peter Jackson,Martin Freeman,668651,58,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.2,273,21 Jump Street,Phil Lord,Jonah Hill,432046,69,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,274,Sing Street,John Carney,Ferdia Walsh-Peelo,52144,79,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,275,Ballerina,Eric Summer,Elle Fanning,4729,,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,276,Oblivion,Joseph Kosinski,Tom Cruise,410125,54,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,277,22 Jump Street,Phil Lord,Channing Tatum,280110,71,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.7,278,Zodiac,David Fincher,Jake Gyllenhaal,329683,78,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+7,279,Everybody Wants Some!!,Richard Linklater,Blake Jenner,36312,83,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,280,Iron Man Three,Shane Black,Robert Downey Jr.,591023,62,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.3,281,Now You See Me,Louis Leterrier,Jesse Eisenberg,492324,50,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+7.6,282,Sherlock Holmes,Guy Ritchie,Robert Downey Jr.,501769,57,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,283,Death Proof,Quentin Tarantino,Kurt Russell,220236,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,284,The Danish Girl,Tom Hooper,Eddie Redmayne,110773,66,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6,285,Hercules,Brett Ratner,Dwayne Johnson,122838,47,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1,286,Sucker Punch,Zack Snyder,Emily Browning,204874,33,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.8,287,Keeping Up with the Joneses,Greg Mottola,Zach Galifianakis,30405,34,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3,288,Jupiter Ascending,Lana Wachowski,Channing Tatum,150121,40,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.8,289,Masterminds,Jared Hess,Zach Galifianakis,26508,47,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.1,290,Iris,Jalil Lespert,Romain Duris,726,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.5,291,Busanhaeng,Sang-ho Yeon,Yoo Gong,58782,72,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7.2,292,Pitch Perfect,Jason Moore,Anna Kendrick,226631,66,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5.7,293,Neighbors 2: Sorority Rising,Nicholas Stoller,Seth Rogen,76327,58,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.7,294,The Exception,David Leveaux,Lily James,96,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,295,Man of Steel,Zack Snyder,Henry Cavill,577010,55,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.6,296,The Choice,Ross Katz,Benjamin Walker,20514,26,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.7,297,Ice Age: Collision Course,Mike Thurmeier,Ray Romano,34523,34,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.8,298,The Devil Wears Prada,David Frankel,Anne Hathaway,302268,62,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,299,The Infiltrator,Brad Furman,Bryan Cranston,43929,66,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,300,There Will Be Blood,Paul Thomas Anderson,Daniel Day-Lewis,400682,92,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.2,301,The Equalizer,Antoine Fuqua,Denzel Washington,249425,57,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+7.5,302,Lone Survivor,Peter Berg,Mark Wahlberg,218996,60,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,303,The Cabin in the Woods,Drew Goddard,Kristen Connolly,295554,72,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5.5,304,The House Bunny,Fred Wolf,Anna Faris,67033,55,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.4,305,She's Out of My League,Jim Field Smith,Jay Baruchel,105619,46,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.7,306,Inherent Vice,Paul Thomas Anderson,Joaquin Phoenix,69509,81,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.2,307,Alice Through the Looking Glass,James Bobin,Mia Wasikowska,57207,34,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+5.5,308,Vincent N Roxxy,Gary Michael Schultz,Emile Hirsch,403,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6,309,The Fast and the Furious: Tokyo Drift,Justin Lin,Lucas Black,193479,45,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.1,310,How to Be Single,Christian Ditter,Dakota Johnson,59886,51,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.7,311,The Blind Side,John Lee Hancock,Quinton Aaron,237221,53,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7.8,312,La vie d'Adèle,Abdellatif Kechiche,Léa Seydoux,103150,88,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.8,313,The Babadook,Jennifer Kent,Essie Davis,132580,86,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7.4,314,The Hobbit: The Battle of the Five Armies,Peter Jackson,Ian McKellen,385598,59,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.5,315,Harry Potter and the Order of the Phoenix,David Yates,Daniel Radcliffe,385325,71,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7,316,Snowpiercer,Bong Joon Ho,Chris Evans,199048,84,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+5.2,317,The 5th Wave,J Blakeson,Chloë Grace Moretz,73093,33,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.3,318,The Stakelander,Dan Berk,Connor Paolo,1263,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.2,319,The Visit,M. Night Shyamalan,Olivia DeJonge,81429,55,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.3,320,Fast Five,Justin Lin,Vin Diesel,300803,66,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.5,321,Step Up,Anne Fletcher,Channing Tatum,95960,48,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,322,Lovesong,So Yong Kim,Riley Keough,616,74,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,323,RocknRolla,Guy Ritchie,Gerard Butler,203096,53,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.7,324,In Time,Andrew Niccol,Justin Timberlake,319025,53,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7.7,325,The Social Network,David Fincher,Jesse Eisenberg,510100,95,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,326,The Last Witch Hunter,Breck Eisner,Vin Diesel,71149,34,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6,327,Victor Frankenstein,Paul McGuigan,Daniel Radcliffe,37975,36,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+7.4,328,A Street Cat Named Bob,Roger Spottiswoode,Luke Treadaway,12643,54,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,329,Green Room,Jeremy Saulnier,Anton Yelchin,62885,79,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+5.4,330,Blackhat,Michael Mann,Chris Hemsworth,43085,51,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.9,331,Storks,Nicholas Stoller,Andy Samberg,34248,56,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.3,332,American Sniper,Clint Eastwood,Bradley Cooper,353305,72,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8,333,Dallas Buyers Club,Jean-Marc Vallée,Matthew McConaughey,352801,84,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.4,334,Lincoln,Steven Spielberg,Daniel Day-Lewis,207497,86,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+8.1,335,Rush,Ron Howard,Daniel Brühl,339722,75,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.1,336,Before I Wake,Mike Flanagan,Kate Bosworth,18201,,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+7.8,337,Silver Linings Playbook,David O. Russell,Bradley Cooper,564364,81,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.9,338,Tracktown,Alexi Pappas,Alexi Pappas,115,64,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7.8,339,The Fault in Our Stars,Josh Boone,Shailene Woodley,271301,69,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.5,340,Blended,Frank Coraci,Adam Sandler,93764,31,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.6,341,Fast & Furious,Justin Lin,Vin Diesel,217464,46,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+7.4,342,Looper,Rian Johnson,Joseph Gordon-Levitt,452369,84,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,343,White House Down,Roland Emmerich,Channing Tatum,173320,52,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.8,344,Pete's Dragon,David Lowery,Bryce Dallas Howard,36322,71,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+6.2,345,Spider-Man 3,Sam Raimi,Tobey Maguire,406219,59,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8,346,The Three Musketeers,Paul W.S. Anderson,Logan Lerman,92329,35,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.7,347,Stardust,Matthew Vaughn,Charlie Cox,220664,66,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.3,348,American Hustle,David O. Russell,Christian Bale,379088,90,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.1,349,Jennifer's Body,Karyn Kusama,Megan Fox,96617,47,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.7,350,Midnight in Paris,Woody Allen,Owen Wilson,320323,81,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+7.3,351,Lady Macbeth,William Oldroyd,Florence Pugh,1396,83,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,352,Joy,David O. Russell,Jennifer Lawrence,97679,56,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,353,The Dressmaker,Jocelyn Moorhouse,Kate Winslet,33352,47,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,354,Café Society,Woody Allen,Jesse Eisenberg,45579,64,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.3,355,Insurgent,Robert Schwentke,Shailene Woodley,171970,42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+5.5,356,Seventh Son,Sergei Bodrov,Ben Barnes,59958,30,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.4,357,Demain tout commence,Hugo Gélin,Omar Sy,5496,,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.7,358,The Theory of Everything,James Marsh,Eddie Redmayne,299718,72,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.6,359,This Is the End,Evan Goldberg,James Franco,327838,67,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.8,360,About Time,Richard Curtis,Domhnall Gleeson,221600,55,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.9,361,Step Brothers,Adam McKay,Will Ferrell,223065,51,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7,362,Clown,Jon Watts,Andy Powers,14248,42,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.8,363,Star Trek Into Darkness,J.J. Abrams,Chris Pine,417663,72,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.7,364,Zombieland,Ruben Fleischer,Jesse Eisenberg,409403,73,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.3,365,"Hail, Caesar!",Ethan Coen,Josh Brolin,89059,72,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,366,Slumdog Millionaire,Danny Boyle,Dev Patel,677044,86,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.5,367,The Twilight Saga: Breaking Dawn - Part 2,Bill Condon,Kristen Stewart,194329,52,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.9,368,American Wrestler: The Wizard,Alex Ranarivelo,William Fichtner,286,,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7,369,The Amazing Spider-Man,Marc Webb,Andrew Garfield,474320,66,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.7,370,Ben-Hur,Timur Bekmambetov,Jack Huston,28326,38,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,371,Sleight,J.D. Dillard,Jacob Latimore,702,62,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.8,372,The Maze Runner,Wes Ball,Dylan O'Brien,335531,57,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.3,373,Criminal,Ariel Vromen,Kevin Costner,38430,36,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,374,Wanted,Timur Bekmambetov,Angelina Jolie,312495,64,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+6.9,375,Florence Foster Jenkins,Stephen Frears,Meryl Streep,31776,71,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.7,376,Collide,Eran Creevy,Nicholas Hoult,7583,33,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.9,377,Black Mass,Scott Cooper,Johnny Depp,135706,68,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,378,Creed,Ryan Coogler,Michael B. Jordan,175673,82,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7.1,379,Swiss Army Man,Dan Kwan,Paul Dano,61812,64,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.1,380,The Expendables 3,Patrick Hughes,Sylvester Stallone,137568,35,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.6,381,What We Do in the Shadows,Jemaine Clement,Jemaine Clement,84016,76,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+7.4,382,Southpaw,Antoine Fuqua,Jake Gyllenhaal,169083,57,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6.6,383,Hush,Mike Flanagan,John Gallagher Jr.,45867,67,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.6,384,Bridge of Spies,Steven Spielberg,Tom Hanks,217938,81,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+7.8,385,The Lego Movie,Phil Lord,Chris Pratt,266508,83,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,386,Everest,Baltasar Kormákur,Jason Clarke,154647,64,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.6,387,Pixels,Chris Columbus,Adam Sandler,101092,27,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.7,388,Robin Hood,Ridley Scott,Russell Crowe,221117,53,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,389,The Wolverine,James Mangold,Hugh Jackman,355362,60,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.6,390,John Carter,Andrew Stanton,Taylor Kitsch,220667,51,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.3,391,Keanu,Peter Atencio,Keegan-Michael Key,31913,63,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.8,392,The Gunman,Pierre Morel,Sean Penn,31194,39,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,393,Steve Jobs,Danny Boyle,Michael Fassbender,116112,82,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5,394,Whisky Galore,Gillies MacKinnon,Tim Pigott-Smith,102,43,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5.4,395,Grown Ups 2,Dennis Dugan,Adam Sandler,114482,19,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,396,The Age of Adaline,Lee Toland Krieger,Blake Lively,112288,51,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+6.8,397,The Incredible Hulk,Louis Leterrier,Edward Norton,342355,61,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.5,398,Couples Retreat,Peter Billingsley,Vince Vaughn,86417,23,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,399,Absolutely Anything,Terry Jones,Simon Pegg,26587,31,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.1,400,Magic Mike,Steven Soderbergh,Channing Tatum,113686,72,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,401,Minions,Kyle Balda,Sandra Bullock,159830,56,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.9,402,The Black Room,Rolfe Kanefsky,Natasha Henstridge,240,71,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.1,403,Bronson,Nicolas Winding Refn,Tom Hardy,93972,,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.7,404,Despicable Me,Pierre Coffin,Steve Carell,410607,72,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,405,The Best of Me,Michael Hoffman,James Marsden,49041,29,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.7,406,The Invitation,Karyn Kusama,Logan Marshall-Green,40529,74,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.4,407,Zero Dark Thirty,Kathryn Bigelow,Jessica Chastain,226661,95,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+7.8,408,Tangled,Nathan Greno,Mandy Moore,316459,71,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.6,409,The Hunger Games: Mockingjay - Part 2,Francis Lawrence,Jennifer Lawrence,202380,65,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.1,410,Vacation,John Francis Daley,Ed Helms,74589,34,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,411,Taken,Pierre Morel,Liam Neeson,502961,50,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.5,412,Pitch Perfect 2,Elizabeth Banks,Anna Kendrick,108306,63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.3,413,Monsters University,Dan Scanlon,Billy Crystal,252119,65,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,414,Elle,Paul Verhoeven,Isabelle Huppert,35417,89,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+5.6,415,Mechanic: Resurrection,Dennis Gansel,Jason Statham,48161,38,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5.4,416,Tusk,Kevin Smith,Justin Long,34546,55,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+6.9,417,The Headhunter's Calling,Mark Williams,Alison Brie,164,85,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.8,418,Atonement,Joe Wright,Keira Knightley,202890,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.7,419,Harry Potter and the Deathly Hallows: Part 1,David Yates,Daniel Radcliffe,357213,65,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.2,420,Shame,Steve McQueen,Michael Fassbender,155010,72,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,421,Hanna,Joe Wright,Saoirse Ronan,164208,65,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.7,422,The Babysitters,David Ross,Lauren Birkell,8914,35,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,423,Pride and Prejudice and Zombies,Burr Steers,Lily James,35003,45,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+6.2,424,300: Rise of an Empire,Noam Murro,Sullivan Stapleton,237887,48,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+5.9,425,London Has Fallen,Babak Najafi,Gerard Butler,100702,28,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.8,426,The Curious Case of Benjamin Button,David Fincher,Brad Pitt,485075,70,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+6.5,427,Sin City: A Dame to Kill For,Frank Miller,Mickey Rourke,122185,46,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+8.1,428,The Bourne Ultimatum,Paul Greengrass,Matt Damon,525700,85,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5.2,429,Srpski film,Srdjan Spasojevic,Srdjan 'Zika' Todorovic,43648,55,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6,430,The Purge: Election Year,James DeMonaco,Frank Grillo,54216,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+8.4,431,3 Idiots,Rajkumar Hirani,Aamir Khan,238789,67,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+4.7,432,Zoolander 2,Ben Stiller,Ben Stiller,48297,34,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,433,World War Z,Marc Forster,Brad Pitt,494819,63,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.4,434,Mission: Impossible - Ghost Protocol,Brad Bird,Tom Cruise,382459,73,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.4,435,Let Me Make You a Martyr,Corey Asraf,Marilyn Manson,223,56,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,436,Filth,Jon S. Baird,James McAvoy,81301,,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,437,The Longest Ride,George Tillman Jr.,Scott Eastwood,58421,33,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.6,438,The imposible,J.A. Bayona,Naomi Watts,156189,73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.6,439,Kick-Ass 2,Jeff Wadlow,Aaron Taylor-Johnson,214825,41,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+5.6,440,Folk Hero & Funny Guy,Jeff Grace,Alex Karpovsky,220,63,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.3,441,Oz the Great and Powerful,Sam Raimi,James Franco,181521,44,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.5,442,Brooklyn,John Crowley,Saoirse Ronan,94977,87,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.7,443,Coraline,Henry Selick,Dakota Fanning,156620,80,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.4,444,Blue Valentine,Derek Cianfrance,Ryan Gosling,151409,81,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6,445,The Thinning,Michael J. Gallagher,Logan Paul,4531,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.6,446,Silent Hill,Christophe Gans,Radha Mitchell,184152,,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.1,447,Dredd,Pete Travis,Karl Urban,213764,59,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.9,448,Hunt for the Wilderpeople,Taika Waititi,Sam Neill,52331,81,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.8,449,Big Hero 6,Don Hall,Ryan Potter,309186,74,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.9,450,Carrie,Kimberly Peirce,Chloë Grace Moretz,113272,53,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+7,451,Iron Man 2,Jon Favreau,Robert Downey Jr.,556666,57,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,452,Demolition,Jean-Marc Vallée,Jake Gyllenhaal,58720,49,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,453,Pandorum,Christian Alvart,Dennis Quaid,126656,28,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.5,454,Olympus Has Fallen,Antoine Fuqua,Gerard Butler,214994,41,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.1,455,I Am Number Four,D.J. Caruso,Alex Pettyfer,202682,36,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8.3,456,Jagten,Thomas Vinterberg,Mads Mikkelsen,192263,76,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,457,The Proposal,Anne Fletcher,Sandra Bullock,241709,48,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6,458,Get Hard,Etan Cohen,Will Ferrell,95119,34,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,459,Just Go with It,Dennis Dugan,Adam Sandler,182069,33,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.3,460,Revolutionary Road,Sam Mendes,Leonardo DiCaprio,159736,69,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.6,461,The Town,Ben Affleck,Ben Affleck,294553,74,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6,462,The Boy,William Brent Bell,Lauren Cohan,51235,42,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.6,463,Denial,Mick Jackson,Rachel Weisz,8229,63,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.5,464,Predestination,Michael Spierig,Ethan Hawke,187760,69,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.3,465,Goosebumps,Rob Letterman,Jack Black,57602,60,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.5,466,Sherlock Holmes: A Game of Shadows,Guy Ritchie,Robert Downey Jr.,357436,48,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,467,Salt,Phillip Noyce,Angelina Jolie,255813,65,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.9,468,Enemy,Denis Villeneuve,Jake Gyllenhaal,111558,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,469,District 9,Neill Blomkamp,Sharlto Copley,556794,81,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6.7,470,The Other Guys,Adam McKay,Will Ferrell,199900,64,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,471,American Gangster,Ridley Scott,Denzel Washington,337835,76,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,472,Marie Antoinette,Sofia Coppola,Kirsten Dunst,83941,65,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+5.8,473,2012,Roland Emmerich,John Cusack,297984,49,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.5,474,Harry Potter and the Half-Blood Prince,David Yates,Daniel Radcliffe,351059,78,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.7,475,Argo,Ben Affleck,Ben Affleck,481274,86,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.4,476,Eddie the Eagle,Dexter Fletcher,Taron Egerton,56332,54,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.5,477,The Lives of Others,Florian Henckel von Donnersmarck,Ulrich Mühe,278103,89,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.7,478,Pet,Carles Torrens,Dominic Monaghan,8404,48,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8.3,479,Paint It Black,Amber Tamblyn,Alia Shawkat,61,71,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,480,Macbeth,Justin Kurzel,Michael Fassbender,41642,71,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+7.2,481,Forgetting Sarah Marshall,Nicholas Stoller,Kristen Bell,226619,67,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.5,482,The Giver,Phillip Noyce,Brenton Thwaites,93799,47,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+6.3,483,Triple 9,John Hillcoat,Casey Affleck,48400,52,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.7,484,Perfetti sconosciuti,Paolo Genovese,Giuseppe Battiston,17584,43,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,485,Angry Birds,Clay Kaytis,Jason Sudeikis,55781,,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,486,Moonrise Kingdom,Wes Anderson,Jared Gilman,254446,84,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,487,Hairspray,Adam Shankman,John Travolta,102954,81,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+6.7,488,Safe Haven,Lasse Hallström,Julianne Hough,84765,34,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+6.6,489,Focus,Glenn Ficarra,Will Smith,166489,56,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+8,490,Ratatouille,Brad Bird,Brad Garrett,504039,96,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.5,491,Stake Land,Jim Mickle,Connor Paolo,36091,66,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+6.9,492,The Book of Eli,Albert Hughes,Denzel Washington,241359,53,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,493,Cloverfield,Matt Reeves,Mike Vogel,313803,64,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+5.3,494,Point Break,Ericson Core,Edgar Ramírez,44553,34,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+6.3,495,Under the Skin,Jonathan Glazer,Scarlett Johansson,94707,78,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+7.2,496,I Am Legend,Francis Lawrence,Will Smith,565721,65,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+6.8,497,Men in Black 3,Barry Sonnenfeld,Will Smith,278379,58,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,498,Super 8,J.J. Abrams,Elle Fanning,298913,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7.4,499,Law Abiding Citizen,F. Gary Gray,Gerard Butler,228339,34,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+8.3,500,Up,Pete Docter,Edward Asner,722203,88,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.3,501,Maze Runner: The Scorch Trials,Wes Ball,Dylan O'Brien,159364,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7.2,502,Carol,Todd Haynes,Cate Blanchett,77995,95,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.5,503,Imperium,Daniel Ragussis,Daniel Radcliffe,27428,68,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.3,504,Youth,Paolo Sorrentino,Michael Caine,52636,64,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.9,505,Mr. Nobody,Jaco Van Dormael,Jared Leto,166872,63,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+5.7,506,City of Tiny Lights,Pete Travis,Riz Ahmed,291,54,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6.5,507,Savages,Oliver Stone,Aaron Taylor-Johnson,107960,59,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.7,508,(500) Days of Summer,Marc Webb,Zooey Deschanel,398972,76,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+4.3,509,Movie 43,Elizabeth Banks,Emma Stone,83625,18,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.8,510,Gravity,Alfonso Cuarón,Sandra Bullock,622089,96,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+7.8,511,The Boy in the Striped Pyjamas,Mark Herman,Asa Butterfield,144614,55,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+7.2,512,Shooter,Antoine Fuqua,Mark Wahlberg,267820,53,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5,513,The Happening,M. Night Shyamalan,Mark Wahlberg,170897,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7.1,514,Bone Tomahawk,S. Craig Zahler,Kurt Russell,47289,72,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+5.7,515,Magic Mike XXL,Gregory Jacobs,Channing Tatum,42506,60,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,516,Easy A,Will Gluck,Emma Stone,294950,72,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6,517,Exodus: Gods and Kings,Ridley Scott,Christian Bale,137299,52,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.9,518,Chappie,Neill Blomkamp,Sharlto Copley,188769,41,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.9,519,The Hobbit: The Desolation of Smaug,Peter Jackson,Ian McKellen,513744,66,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.2,520,Half of a Yellow Sun,Biyi Bandele,Chiwetel Ejiofor,1356,51,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.2,521,Anthropoid,Sean Ellis,Jamie Dornan,24100,59,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+5.3,522,The Counselor,Ridley Scott,Michael Fassbender,84927,48,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+4.7,523,Viking,Andrey Kravchuk,Anton Adasinsky,1830,57,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.6,524,Whiskey Tango Foxtrot,Glenn Ficarra,Tina Fey,36156,,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,525,Trust,David Schwimmer,Clive Owen,36043,60,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+3.9,526,Birth of the Dragon,George Nolfi,Billy Magnussen,552,61,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,527,Elysium,Neill Blomkamp,Matt Damon,358932,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+5.4,528,The Green Inferno,Eli Roth,Lorenza Izzo,26461,38,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.4,529,Godzilla,Gareth Edwards,Aaron Taylor-Johnson,318058,62,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.7,530,The Bourne Legacy,Tony Gilroy,Jeremy Renner,245374,61,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.9,531,A Good Year,Ridley Scott,Russell Crowe,74674,47,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.4,532,Friend Request,Simon Verhoeven,Alycia Debnam-Carey,12758,59,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7,533,Deja Vu,Tony Scott,Denzel Washington,253858,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6.4,534,Lucy,Luc Besson,Scarlett Johansson,352698,61,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7.2,535,A Quiet Passion,Terence Davies,Cynthia Nixon,1024,77,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.5,536,Need for Speed,Scott Waugh,Aaron Paul,143389,39,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7,537,Jack Reacher,Christopher McQuarrie,Tom Cruise,250811,50,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+5.7,538,The Do-Over,Steven Brill,Adam Sandler,24761,22,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.3,539,True Crimes,Alexandros Avranas,Jim Carrey,198,43,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6.1,540,American Pastoral,Ewan McGregor,Ewan McGregor,7115,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,541,The Ghost Writer,Roman Polanski,Ewan McGregor,137964,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.4,542,Limitless,Neil Burger,Bradley Cooper,444417,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6.3,543,Spectral,Nic Mathieu,James Badge Dale,27042,39,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.1,544,P.S. I Love You,Richard LaGravenese,Hilary Swank,177247,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.7,545,Zipper,Mora Stephens,Patrick Wilson,4912,39,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.7,546,Midnight Special,Jeff Nichols,Michael Shannon,54787,76,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.8,547,Don't Think Twice,Mike Birbiglia,Keegan-Michael Key,10485,83,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.5,548,Alice in Wonderland,Tim Burton,Mia Wasikowska,324898,53,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+6.8,549,Chuck,Philippe Falardeau,Elisabeth Moss,391,68,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7.9,550,"I, Daniel Blake",Ken Loach,Dave Johns,22941,77,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,551,The Break-Up,Peyton Reed,Jennifer Aniston,106381,45,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.1,552,Loving,Jeff Nichols,Ruth Negga,17141,79,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+4.3,553,Fantastic Four,Josh Trank,Miles Teller,121847,27,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.3,554,The Survivalist,Stephen Fingleton,Mia Goth,9187,80,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+7.1,555,Colonia,Florian Gallenberger,Emma Watson,30074,33,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+4.6,556,The Boy Next Door,Rob Cohen,Jennifer Lopez,30180,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.1,557,The Gift,Joel Edgerton,Jason Bateman,96688,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.3,558,Dracula Untold,Gary Shore,Luke Evans,148504,40,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.9,559,In the Heart of the Sea,Ron Howard,Chris Hemsworth,90372,47,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.6,560,Idiocracy,Mike Judge,Luke Wilson,115355,66,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.5,561,The Expendables,Sylvester Stallone,Sylvester Stallone,283282,45,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.5,562,Evil Dead,Fede Alvarez,Jane Levy,133113,57,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6.8,563,Sinister,Scott Derrickson,Ethan Hawke,171169,53,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.8,564,Wreck-It Ralph,Rich Moore,John C. Reilly,290559,72,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1,565,Snow White and the Huntsman,Rupert Sanders,Kristen Stewart,239772,57,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,566,Pan,Joe Wright,Levi Miller,47804,36,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+6.3,567,Transformers: Dark of the Moon,Michael Bay,Shia LaBeouf,338369,42,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.5,568,Juno,Jason Reitman,Ellen Page,432461,81,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.1,569,A Hologram for the King,Tom Tykwer,Tom Hanks,26521,58,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.5,570,Money Monster,Jodie Foster,George Clooney,68654,55,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6,571,The Other Woman,Nick Cassavetes,Cameron Diaz,110825,39,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.1,572,Enchanted,Kevin Lima,Amy Adams,150353,75,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.1,573,The Intern,Nancy Meyers,Robert De Niro,159582,51,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.8,574,Little Miss Sunshine,Jonathan Dayton,Steve Carell,374044,80,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,575,Bleed for This,Ben Younger,Miles Teller,11900,62,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+5.8,576,Clash of the Titans,Louis Leterrier,Sam Worthington,238206,39,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.8,577,The Finest Hours,Craig Gillespie,Chris Pine,44425,58,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.8,578,Tron,Joseph Kosinski,Jeff Bridges,273959,49,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.6,579,The Hunger Games: Catching Fire,Francis Lawrence,Jennifer Lawrence,525646,76,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.3,580,All Good Things,Andrew Jarecki,Ryan Gosling,44158,57,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+4.9,581,Kickboxer: Vengeance,John Stockwell,Dave Bautista,6809,37,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2,582,The Last Airbender,M. Night Shyamalan,Noah Ringer,125129,20,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5.1,583,Sex Tape,Jake Kasdan,Jason Segel,89885,36,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5.7,584,What to Expect When You're Expecting,Kirk Jones,Cameron Diaz,60059,41,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.6,585,Moneyball,Bennett Miller,Brad Pitt,297395,87,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+5.2,586,Ghost Rider,Mark Steven Johnson,Nicolas Cage,190673,35,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+7.2,587,Unbroken,Angelina Jolie,Jack O'Connell,114006,59,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6,588,Immortals,Tarsem Singh,Henry Cavill,142900,46,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+7.3,589,Sunshine,Danny Boyle,Cillian Murphy,199860,64,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+7.2,590,Brave,Mark Andrews,Kelly Macdonald,293941,69,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,591,Män som hatar kvinnor,Niels Arden Oplev,Michael Nyqvist,182074,76,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.2,592,Adoration,Anne Fontaine,Naomi Watts,25208,37,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.1,593,The Drop,Michaël R. Roskam,Tom Hardy,116118,69,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,594,She's the Man,Andy Fickman,Amanda Bynes,122864,45,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+6.1,595,Daddy's Home,Sean Anders,Will Ferrell,68306,42,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.2,596,Let Me In,Matt Reeves,Kodi Smit-McPhee,97141,79,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+6.6,597,Never Back Down,Jeff Wadlow,Sean Faris,84083,39,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6.2,598,Grimsby,Louis Leterrier,Sacha Baron Cohen,63408,44,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.9,599,Moon,Duncan Jones,Sam Rockwell,277123,67,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+7.3,600,Megamind,Tom McGrath,Will Ferrell,183926,63,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,601,Gangster Squad,Ruben Fleischer,Sean Penn,181432,40,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,602,Blood Father,Jean-François Richet,Mel Gibson,40357,66,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,603,He's Just Not That Into You,Ken Kwapis,Jennifer Aniston,137684,47,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.2,604,Kung Fu Panda 3,Alessandro Carloni,Jack Black,89791,66,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.1,605,The Rise of the Krays,Zackary Adler,Matt Vael,1630,90,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.4,606,Handsome Devil,John Butler,Fionn O'Shea,338,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,607,Winter's Bone,Debra Granik,Jennifer Lawrence,116435,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.9,608,Horrible Bosses,Seth Gordon,Jason Bateman,368556,57,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+8.1,609,Mommy,Xavier Dolan,Anne Dorval,33560,74,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,610,Hellboy II: The Golden Army,Guillermo del Toro,Ron Perlman,216932,78,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.2,611,Beautiful Creatures,Richard LaGravenese,Alice Englert,71822,52,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+7.6,612,Toni Erdmann,Maren Ade,Sandra Hüller,24387,93,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,613,The Lovely Bones,Peter Jackson,Rachel Weisz,130702,42,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+7.5,614,The Assassination of Jesse James by the Coward Robert Ford,Andrew Dominik,Brad Pitt,143564,68,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,615,Don Jon,Joseph Gordon-Levitt,Joseph Gordon-Levitt,199973,66,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.3,616,Bastille Day,James Watkins,Idris Elba,21089,48,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+4,617,2307: Winter's Dream,Joey Curtis,Paul Sidhu,277,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.9,618,Free State of Jones,Gary Ross,Matthew McConaughey,29895,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,619,Mr. Right,Paco Cabezas,Anna Kendrick,30053,52,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.3,620,The Secret Life of Walter Mitty,Ben Stiller,Ben Stiller,249877,54,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,621,Dope,Rick Famuyiwa,Shameik Moore,66400,72,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,622,Underworld Awakening,Måns Mårlind,Kate Beckinsale,127157,39,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6.6,623,Antichrist,Lars von Trier,Willem Dafoe,94069,49,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+5.6,624,Friday the 13th,Marcus Nispel,Jared Padalecki,78631,34,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6,625,Taken 3,Olivier Megaton,Liam Neeson,144715,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.3,626,Total Recall,Len Wiseman,Colin Farrell,210965,43,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,627,X-Men: The Last Stand,Brett Ratner,Patrick Stewart,406540,58,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6,628,The Escort,Will Slocombe,Lyndsy Fonseca,7181,46,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.1,629,The Whole Truth,Courtney Hunt,Keanu Reeves,10700,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.2,630,Night at the Museum: Secret of the Tomb,Shawn Levy,Ben Stiller,74886,47,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.7,631,Love & Other Drugs,Edward Zwick,Jake Gyllenhaal,151519,55,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.6,632,The Interview,Evan Goldberg,James Franco,261536,52,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,633,The Host,Bong Joon Ho,Kang-ho Song,73491,85,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+4.9,634,Megan Is Missing,Michael Goi,Amber Perkins,6683,94,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+8.4,635,WALL·E,Andrew Stanton,Ben Burtt,776897,,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7,636,Knocked Up,Judd Apatow,Seth Rogen,309398,85,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.5,637,Source Code,Duncan Jones,Jake Gyllenhaal,404884,74,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+7.3,638,Lawless,John Hillcoat,Tom Hardy,195360,58,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.6,639,Unfriended,Levan Gabriadze,Heather Sossaman,50402,59,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+6.7,640,American Reunion,Jon Hurwitz,Jason Biggs,178471,49,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,641,The Pursuit of Happyness,Gabriele Muccino,Will Smith,361105,64,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.1,642,Relatos salvajes,Damián Szifron,Darío Grandinetti,110100,77,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+4.8,643,The Ridiculous 6,Frank Coraci,Adam Sandler,31149,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+7.5,644,Frantz,François Ozon,Pierre Niney,4304,73,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+5.5,645,Viral,Henry Joost,Sofia Black-D'Elia,3564,72,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+8.2,646,Gran Torino,Clint Eastwood,Clint Eastwood,595779,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,647,Burnt,John Wells,Bradley Cooper,76469,42,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+3.2,648,Tall Men,Jonathan Holbrook,Dan Crisafulli,173,57,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1
+5.3,649,Sleeping Beauty,Julia Leigh,Emily Browning,27006,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.6,650,Vampire Academy,Mark Waters,Zoey Deutch,44111,30,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.4,651,Sweeney Todd: The Demon Barber of Fleet Street,Tim Burton,Johnny Depp,296289,83,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+6.4,652,Solace,Afonso Poyart,Anthony Hopkins,36300,36,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,653,Insidious,James Wan,Patrick Wilson,219916,52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.7,654,Popstar: Never Stop Never Stopping,Akiva Schaffer,Andy Samberg,30875,68,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,655,The Levelling,Hope Dickson Leach,Ellie Kendrick,482,82,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,656,Public Enemies,Michael Mann,Christian Bale,240323,70,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.9,657,Boyhood,Richard Linklater,Ellar Coltrane,286722,100,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.9,658,Teenage Mutant Ninja Turtles,Jonathan Liebesman,Megan Fox,178527,31,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.7,659,Eastern Promises,David Cronenberg,Naomi Watts,198006,82,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,660,The Daughter,Simon Stone,Geoffrey Rush,2798,62,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,661,Pineapple Express,David Gordon Green,Seth Rogen,267872,64,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.9,662,The First Time,Jon Kasdan,Dylan O'Brien,54027,55,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.7,663,Gone Baby Gone,Ben Affleck,Morgan Freeman,206707,72,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,664,The Heat,Paul Feig,Sandra Bullock,140151,60,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,665,L'avenir,Mia Hansen-Løve,Isabelle Huppert,5796,88,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,666,Anna Karenina,Joe Wright,Keira Knightley,75291,63,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.7,667,Regression,Alejandro Amenábar,Ethan Hawke,26320,32,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,668,Ted 2,Seth MacFarlane,Mark Wahlberg,136323,48,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.5,669,Pain & Gain,Michael Bay,Mark Wahlberg,168875,45,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+8,670,Blood Diamond,Edward Zwick,Leonardo DiCaprio,422014,64,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.1,671,Devil's Knot,Atom Egoyan,Colin Firth,15514,42,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.5,672,Child 44,Daniel Espinosa,Tom Hardy,47703,41,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.6,673,The Hurt Locker,Kathryn Bigelow,Jeremy Renner,352023,94,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+5.6,674,Green Lantern,Martin Campbell,Ryan Reynolds,231907,39,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.9,675,War on Everyone,John Michael McDonagh,Alexander Skarsgård,9285,50,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,676,The Mist,Frank Darabont,Thomas Jane,233346,58,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.7,677,Escape Plan,Mikael Håfström,Sylvester Stallone,188004,49,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,678,"Love, Rosie",Christian Ditter,Lily Collins,80415,44,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.5,679,The DUFF,Ari Sandel,Mae Whitman,57874,56,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,680,The Age of Shadows,Jee-woon Kim,Byung-hun Lee,2403,78,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.7,681,The Hunger Games: Mockingjay - Part 1,Francis Lawrence,Jennifer Lawrence,331902,64,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.5,682,We Need to Talk About Kevin,Lynne Ramsay,Tilda Swinton,104953,68,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.5,683,Love & Friendship,Whit Stillman,Kate Beckinsale,16164,87,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.9,684,The Mortal Instruments: City of Bones,Harald Zwart,Lily Collins,112313,33,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+7.7,685,Seven Pounds,Gabriele Muccino,Will Smith,245144,36,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,686,The King's Speech,Tom Hooper,Colin Firth,534388,88,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,687,Hunger,Steve McQueen,Stuart Graham,54486,82,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.1,688,Jumper,Doug Liman,Hayden Christensen,252503,35,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+8.3,689,Toy Story 3,Lee Unkrich,Tom Hanks,586669,92,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,690,Tinker Tailor Soldier Spy,Tomas Alfredson,Gary Oldman,157053,85,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.4,691,Resident Evil: Retribution,Paul W.S. Anderson,Milla Jovovich,114144,39,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+7.8,692,Dear Zindagi,Gauri Shinde,Alia Bhatt,23540,56,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.5,693,Genius,Michael Grandage,Colin Firth,10708,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.5,694,Pompeii,Paul W.S. Anderson,Kit Harington,90188,39,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.9,695,Life of Pi,Ang Lee,Suraj Sharma,471109,79,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+8.1,696,Hachi: A Dog's Tale,Lasse Hallström,Richard Gere,177602,61,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+6.1,697,10 Years,Jamie Linden,Channing Tatum,19636,,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.3,698,I Origins,Mike Cahill,Michael Pitt,86271,57,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+7.2,699,Live Free or Die Hard,Len Wiseman,Bruce Willis,347567,69,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5.5,700,The Matchbreaker,Caleb Vetter,Wesley Elder,1427,44,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.5,701,Funny Games,Michael Haneke,Naomi Watts,73835,,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+7,702,Ted,Seth MacFarlane,Mark Wahlberg,494641,62,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.1,703,RED,Robert Schwentke,Bruce Willis,250012,60,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.6,704,Australia,Baz Luhrmann,Nicole Kidman,106115,53,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.5,705,Faster,George Tillman Jr.,Dwayne Johnson,83788,44,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,706,The Neighbor,Marcus Dunstan,Josh Stewart,4754,60,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+7.1,707,The Adjustment Bureau,George Nolfi,Matt Damon,208632,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+6.5,708,The Hollars,John Krasinski,Sharlto Copley,5908,53,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.4,709,The Judge,David Dobkin,Robert Downey Jr.,146812,48,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.2,710,Closed Circuit,John Crowley,Eric Bana,18437,50,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6,711,Transformers: Revenge of the Fallen,Michael Bay,Shia LaBeouf,335757,35,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.6,712,La tortue rouge,Michael Dudok de Wit,Emmanuel Garijo,11482,86,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.3,713,The Book of Life,Jorge R. Gutiérrez,Diego Luna,50388,67,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+8.2,714,Incendies,Denis Villeneuve,Lubna Azabal,92863,80,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+5.8,715,The Heartbreak Kid,Bobby Farrelly,Ben Stiller,74664,46,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.5,716,Happy Feet,George Miller,Elijah Wood,141141,77,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.6,717,Entourage,Doug Ellin,Adrian Grenier,64557,38,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,718,The Strangers,Bryan Bertino,Scott Speedman,96718,47,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+5.8,719,Noah,Darren Aronofsky,Russell Crowe,209700,68,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,720,Neighbors,Nicholas Stoller,Seth Rogen,236500,68,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,721,Nymphomaniac: Vol. II,Lars von Trier,Charlotte Gainsbourg,65824,60,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,722,Wild,Jean-Marc Vallée,Reese Witherspoon,95553,76,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6,723,Grown Ups,Dennis Dugan,Adam Sandler,190385,30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.1,724,Blair Witch,Adam Wingard,James Allen McCune,26088,47,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.2,725,The Karate Kid,Harald Zwart,Jackie Chan,127983,61,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+6.2,726,Dark Shadows,Tim Burton,Johnny Depp,209326,55,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+6.6,727,Friends with Benefits,Will Gluck,Mila Kunis,286543,63,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.6,728,The Illusionist,Neil Burger,Edward Norton,309934,68,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.8,729,The A-Team,Joe Carnahan,Liam Neeson,219116,47,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.7,730,The Guest,Adam Wingard,Dan Stevens,71069,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.3,731,The Internship,Shawn Levy,Vince Vaughn,166342,42,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,732,Paul,Greg Mottola,Simon Pegg,201707,57,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.9,733,This Beautiful Fantastic,Simon Aboud,Jessica Brown Findlay,688,51,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.6,734,The Da Vinci Code,Ron Howard,Tom Hanks,338280,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.7,735,Mr. Church,Bruce Beresford,Eddie Murphy,16163,37,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.5,736,Hugo,Martin Scorsese,Asa Butterfield,259182,83,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+5.6,737,The Blackcoat's Daughter,Oz Perkins,Emma Roberts,4155,68,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.1,738,Body of Lies,Ridley Scott,Leonardo DiCaprio,182305,57,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.7,739,Knight of Cups,Terrence Malick,Christian Bale,17439,53,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.2,740,The Mummy: Tomb of the Dragon Emperor,Rob Cohen,Brendan Fraser,124554,31,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.4,741,The Boss,Ben Falcone,Melissa McCarthy,29642,40,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.6,742,Hands of Stone,Jonathan Jakubowicz,Edgar Ramírez,8998,54,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+8.2,743,El secreto de sus ojos,Juan José Campanella,Ricardo Darín,144524,80,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.6,744,True Grit,Ethan Coen,Jeff Bridges,254904,80,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+6.2,745,We Are Your Friends,Max Joseph,Zac Efron,25903,46,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.1,746,A Million Ways to Die in the West,Seth MacFarlane,Seth MacFarlane,144779,44,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+4.6,747,Only for One Night,Chris Stokes,Brian White,313,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5.7,748,Rules Don't Apply,Warren Beatty,Lily Collins,3731,,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.1,749,Ouija: Origin of Evil,Mike Flanagan,Elizabeth Reaser,30035,65,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+5.9,750,Percy Jackson: Sea of Monsters,Thor Freudenthal,Logan Lerman,91684,39,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+7.2,751,Fracture,Gregory Hoblit,Anthony Hopkins,148943,68,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.5,752,Oculus,Mike Flanagan,Karen Gillan,92875,61,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.9,753,In Bruges,Martin McDonagh,Colin Farrell,322536,67,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,754,This Means War,McG,Reese Witherspoon,154400,31,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5,755,Lída Baarová,Filip Renc,Tatiana Pauhofová,353,64,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+7.3,756,The Road,John Hillcoat,Viggo Mortensen,187302,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.2,757,Lavender,Ed Gass-Donnelly,Abbie Cornish,2083,46,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.6,758,Deuces,Jamal Hill,Larenz Tate,256,36,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.2,759,Conan the Barbarian,Marcus Nispel,Jason Momoa,84893,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.8,760,The Fighter,David O. Russell,Mark Wahlberg,290056,79,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.5,761,August Rush,Kirsten Sheridan,Freddie Highmore,91229,38,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,762,Chef,Jon Favreau,Jon Favreau,151970,68,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,763,Eye in the Sky,Gavin Hood,Helen Mirren,57826,73,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+6.6,764,Eagle Eye,D.J. Caruso,Shia LaBeouf,156158,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5.7,765,The Purge,James DeMonaco,Ethan Hawke,154588,41,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+8.2,766,PK,Rajkumar Hirani,Aamir Khan,103279,51,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.7,767,Ender's Game,Gavin Hood,Harrison Ford,194236,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.2,768,Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,Harrison Ford,351361,65,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.3,769,Paper Towns,Jake Schreier,Nat Wolff,72515,56,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.7,770,High-Rise,Ben Wheatley,Tom Hiddleston,25928,65,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,771,Quantum of Solace,Marc Forster,Daniel Craig,347798,58,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+4.5,772,The Assignment,Walter Hill,Sigourney Weaver,2043,34,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+8.1,773,How to Train Your Dragon,Dean DeBlois,Jay Baruchel,523893,74,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.6,774,Lady in the Water,M. Night Shyamalan,Paul Giamatti,82701,36,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+7.3,775,The Fountain,Darren Aronofsky,Hugh Jackman,199193,51,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+6.2,776,Cars 2,John Lasseter,Owen Wilson,110490,57,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.1,777,31,Rob Zombie,Malcolm McDowell,10871,35,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+4.7,778,Final Girl,Tyler Shields,Abigail Breslin,9026,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+4.8,779,Chalk It Up,Hisonni Johnson,Maddy Curley,499,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,780,The Man Who Knew Infinity,Matt Brown,Dev Patel,29912,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.9,781,Unknown,Jaume Collet-Serra,Liam Neeson,218679,56,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.5,782,Self/less,Tarsem Singh,Ryan Reynolds,67196,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7.3,783,Mr. Brooks,Bruce A. Evans,Kevin Costner,128146,45,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6.5,784,Tramps,Adam Leon,Callum Turner,1031,77,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.9,785,Before We Go,Chris Evans,Chris Evans,31370,31,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.8,786,Captain Phillips,Paul Greengrass,Tom Hanks,346154,83,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.8,787,The Secret Scripture,Jim Sheridan,Rooney Mara,378,37,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+4.6,788,Max Steel,Stewart Hendler,Ben Winchell,11555,22,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.7,789,Hotel Transylvania 2,Genndy Tartakovsky,Adam Sandler,69157,44,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.4,790,Hancock,Peter Berg,Will Smith,366138,49,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6,791,Sisters,Jason Moore,Amy Poehler,50241,58,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.3,792,The Family,Luc Besson,Robert De Niro,92868,42,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.6,793,Zack and Miri Make a Porno,Kevin Smith,Seth Rogen,154936,56,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.8,794,Ma vie de Courgette,Claude Barras,Gaspard Schlatter,4370,85,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,795,Man on a Ledge,Asger Leth,Sam Worthington,129252,40,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.2,796,No Strings Attached,Ivan Reitman,Natalie Portman,178243,50,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.3,797,Rescue Dawn,Werner Herzog,Christian Bale,87887,77,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.4,798,Despicable Me 2,Pierre Coffin,Steve Carell,304837,62,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.5,799,A Walk Among the Tombstones,Scott Frank,Liam Neeson,93883,57,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7,800,The World's End,Edgar Wright,Simon Pegg,199813,81,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+4.3,801,Yoga Hosers,Kevin Smith,Lily-Rose Depp,7091,23,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+7.2,802,Seven Psychopaths,Martin McDonagh,Colin Farrell,196652,66,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,803,Beowulf,Robert Zemeckis,Ray Winstone,146566,59,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,804,Jack Ryan: Shadow Recruit,Kenneth Branagh,Chris Pine,103681,57,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.8,805,1408,Mikael Håfström,John Cusack,221073,64,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+6,806,The Gambler,Rupert Wyatt,Mark Wahlberg,52537,55,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6.6,807,Prince of Persia: The Sands of Time,Mike Newell,Jake Gyllenhaal,233148,50,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.1,808,The Spectacular Now,James Ponsoldt,Miles Teller,115751,82,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.8,809,A United Kingdom,Amma Asante,David Oyelowo,4771,65,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.2,810,USS Indianapolis: Men of Courage,Mario Van Peebles,Nicolas Cage,4964,30,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.7,811,Turbo Kid,François Simard,Munro Chambers,19309,60,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,812,Mama,Andrés Muschietti,Jessica Chastain,142560,57,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+7,813,Orphan,Jaume Collet-Serra,Vera Farmiga,153448,42,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.3,814,To Rome with Love,Woody Allen,Woody Allen,72050,54,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.8,815,Fantastic Mr. Fox,Wes Anderson,George Clooney,149779,83,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.6,816,Inside Man,Spike Lee,Denzel Washington,285441,76,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.4,817,I.T.,John Moore,Pierce Brosnan,8755,27,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,818,127 Hours,Danny Boyle,James Franco,294010,82,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.4,819,Annabelle,John R. Leonetti,Ward Horton,91106,37,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+4.6,820,Wolves at the Door,John R. Leonetti,Katie Cassidy,564,63,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.9,821,Suite Française,Saul Dibb,Michelle Williams,13711,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+6.8,822,The Imaginarium of Doctor Parnassus,Terry Gilliam,Christopher Plummer,130153,65,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.8,823,G.I. Joe: The Rise of Cobra,Stephen Sommers,Dennis Quaid,180105,32,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7,824,Christine,Antonio Campos,Rebecca Hall,5855,72,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,825,Man Down,Dito Montiel,Shia LaBeouf,4779,27,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.3,826,Crawlspace,Phil Claydon,Michael Vartan,1427,25,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+4.6,827,Shut In,Farren Blackburn,Naomi Watts,5715,,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+5.3,828,The Warriors Gate,Matthias Hoene,Mark Chao,1391,77,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7.6,829,Grindhouse,Robert Rodriguez,Kurt Russell,160350,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+1.9,830,Disaster Movie,Jason Friedberg,Carmen Electra,77207,15,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.2,831,Rocky Balboa,Sylvester Stallone,Sylvester Stallone,171356,63,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6.4,832,Diary of a Wimpy Kid: Dog Days,David Bowers,Zachary Gordon,16917,54,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.4,833,Jane Eyre,Cary Joji Fukunaga,Mia Wasikowska,67464,76,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.7,834,Fool's Gold,Andy Tennant,Matthew McConaughey,62719,29,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,835,The Dictator,Larry Charles,Sacha Baron Cohen,225394,58,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.3,836,The Loft,Erik Van Looy,Karl Urban,38804,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+7.5,837,Bacalaureat,Cristian Mungiu,Adrian Titieni,5531,84,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.5,838,You Don't Mess with the Zohan,Dennis Dugan,Adam Sandler,163144,54,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+4.2,839,Exposed,Gee Malik Linton,Ana de Armas,8409,23,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.8,840,Maudie,Aisling Walsh,Ethan Hawke,346,60,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.3,841,Horrible Bosses 2,Sean Anders,Jason Bateman,125190,40,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.4,842,A Bigger Splash,Luca Guadagnino,Tilda Swinton,15232,74,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.1,843,Melancholia,Lars von Trier,Kirsten Dunst,137117,80,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.1,844,The Princess and the Frog,Ron Clements,Anika Noni Rose,95480,73,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.8,845,Unstoppable,Tony Scott,Denzel Washington,157499,69,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.3,846,Flight,Robert Zemeckis,Denzel Washington,276347,76,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.7,847,Home,Tim Johnson,Jim Parsons,77447,55,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,848,La migliore offerta,Giuseppe Tornatore,Geoffrey Rush,77986,49,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,849,Mean Dreams,Nathan Morlando,Sophie Nélisse,1066,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.5,850,42,Brian Helgeland,Chadwick Boseman,69659,62,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6.8,851,21,Robert Luketic,Jim Sturgess,198395,48,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.4,852,Begin Again,John Carney,Keira Knightley,111875,62,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,853,Out of the Furnace,Scott Cooper,Christian Bale,88829,63,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+7.1,854,Vicky Cristina Barcelona,Woody Allen,Rebecca Hall,208770,70,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.6,855,Kung Fu Panda,Mark Osborne,Jack Black,329788,73,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.9,856,Barbershop: The Next Cut,Malcolm D. Lee,Ice Cube,9993,67,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.6,857,Terminator Salvation,McG,Christian Bale,297093,49,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.5,858,Freedom Writers,Richard LaGravenese,Hilary Swank,55648,64,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,859,The Hills Have Eyes,Alexandre Aja,Ted Levine,136642,52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.8,860,Changeling,Clint Eastwood,Angelina Jolie,206793,63,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.2,861,Remember Me,Allen Coulter,Robert Pattinson,119376,40,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8.4,862,Koe no katachi,Naoko Yamada,Miyu Irino,2421,80,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.2,863,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Miguel Arteta,Steve Carell,32310,54,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+7.1,864,Locke,Steven Knight,Tom Hardy,100890,81,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,865,The 9th Life of Louis Drax,Alexandre Aja,Jamie Dornan,6175,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.5,866,Horns,Alexandre Aja,Daniel Radcliffe,61060,46,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+6.9,867,Indignation,James Schamus,Logan Lerman,7402,78,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.9,868,The Stanford Prison Experiment,Kyle Patrick Alvarez,Ezra Miller,20907,67,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.6,869,Diary of a Wimpy Kid: Rodrick Rules,David Bowers,Zachary Gordon,20194,51,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+6.9,870,Mission: Impossible III,J.J. Abrams,Tom Cruise,270429,66,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.7,871,En man som heter Ove,Hannes Holm,Rolf Lassgård,21569,70,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2.7,872,Dragonball Evolution,James Wong,Justin Chatwin,59512,45,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.4,873,Red Dawn,Dan Bradley,Chris Hemsworth,64584,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,874,One Day,Lone Scherfig,Anne Hathaway,113599,48,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.6,875,Life as We Know It,Greg Berlanti,Katherine Heigl,101301,39,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7,876,28 Weeks Later,Juan Carlos Fresnadillo,Jeremy Renner,221858,78,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+6.9,877,Warm Bodies,Jonathan Levine,Nicholas Hoult,193579,59,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+7.3,878,Blue Jasmine,Woody Allen,Cate Blanchett,160592,78,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.8,879,G.I. Joe: Retaliation,Jon M. Chu,Dwayne Johnson,152145,41,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+5.8,880,Wrath of the Titans,Jonathan Liebesman,Sam Worthington,159230,37,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+6.9,881,Shin Gojira,Hideaki Anno,Hiroki Hasegawa,8365,68,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.5,882,Saving Mr. Banks,John Lee Hancock,Emma Thompson,125693,65,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,883,Transcendence,Wally Pfister,Johnny Depp,184564,42,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.9,884,Rio,Carlos Saldanha,Jesse Eisenberg,173919,63,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.1,885,Equals,Drake Doremus,Nicholas Hoult,16361,43,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+7.5,886,Babel,Alejandro González Iñárritu,Brad Pitt,253417,69,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,887,The Tree of Life,Terrence Malick,Brad Pitt,143517,85,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.5,888,The Lucky One,Scott Hicks,Zac Efron,82874,39,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.5,889,Piranha 3D,Alexandre Aja,Elisabeth Shue,75262,53,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+7.7,890,50/50,Jonathan Levine,Joseph Gordon-Levitt,281625,72,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+3.5,891,The Intent,Femi Oyeniran,Dylan Duffus,202,59,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+6.2,892,This Is 40,Judd Apatow,Paul Rudd,108156,,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.1,893,Real Steel,Shawn Levy,Hugh Jackman,264480,56,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+5.5,894,Sex and the City,Michael Patrick King,Sarah Jessica Parker,102547,53,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.1,895,Rambo,Sylvester Stallone,Sylvester Stallone,187077,46,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+7.1,896,Planet Terror,Robert Rodriguez,Rose McGowan,174553,55,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.1,897,Concussion,Peter Landesman,Will Smith,61274,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+7.9,898,The Fall,Tarsem Singh,Lee Pace,93036,64,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.5,899,The Ugly Truth,Robert Luketic,Katherine Heigl,172558,28,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5.5,900,Bride Wars,Gary Winick,Kate Hudson,83976,24,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.5,901,Sleeping with Other People,Leslye Headland,Jason Sudeikis,27730,64,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.6,902,Snakes on a Plane,David R. Ellis,Samuel L. Jackson,118905,58,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6.8,903,What If,Michael Dowse,Daniel Radcliffe,55243,59,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+7.9,904,How to Train Your Dragon 2,Dean DeBlois,Jay Baruchel,237565,76,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,905,RoboCop,José Padilha,Joel Kinnaman,190833,52,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+6.2,906,In Dubious Battle,James Franco,Nat Wolff,1455,43,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.7,907,"Hello, My Name Is Doris",Michael Showalter,Sally Field,12361,63,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.9,908,Ocean's Thirteen,Steven Soderbergh,George Clooney,269581,62,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+6.5,909,Slither,James Gunn,Nathan Fillion,64351,69,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+6.6,910,Contagion,Steven Soderbergh,Matt Damon,187004,70,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.4,911,Il racconto dei racconti - Tale of Tales,Matteo Garrone,Salma Hayek,17565,72,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+4.7,912,I Am the Pretty Thing That Lives in the House,Oz Perkins,Ruth Wilson,4204,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7.2,913,Bridge to Terabithia,Gabor Csupo,Josh Hutcherson,117297,74,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+7.2,914,Coherence,James Ward Byrkit,Emily Baldoni,66265,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6.7,915,Notorious,George Tillman Jr.,Jamal Woolard,33007,60,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7.5,916,Goksung,Hong-jin Na,Jun Kunimura,17962,81,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+6.6,917,The Expendables 2,Simon West,Sylvester Stallone,257395,51,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.7,918,The Girl Next Door,Gregory Wilson,William Atherton,19351,29,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+7.5,919,Perfume: The Story of a Murderer,Tom Tykwer,Ben Whishaw,199387,56,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+6.1,920,The Golden Compass,Chris Weitz,Nicole Kidman,155078,51,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+6.4,921,Centurion,Neil Marshall,Michael Fassbender,67801,62,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,922,Scouts Guide to the Zombie Apocalypse,Christopher Landon,Tye Sheridan,31651,32,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.4,923,17 Again,Burr Steers,Zac Efron,152808,48,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+6.8,924,No Escape,John Erick Dowdle,Lake Bell,57921,38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.1,925,Superman Returns,Bryan Singer,Brandon Routh,246797,72,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+4.9,926,The Twilight Saga: Breaking Dawn - Part 1,Bill Condon,Kristen Stewart,190244,45,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+7.3,927,Precious,Lee Daniels,Gabourey Sidibe,91623,79,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.9,928,The Sea of Trees,Gus Van Sant,Matthew McConaughey,7475,23,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.1,929,Good Kids,Chris McCoy,Zoey Deutch,3843,86,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.1,930,The Master,Paul Thomas Anderson,Philip Seymour Hoffman,112902,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.9,931,Footloose,Craig Brewer,Kenny Wormald,39380,58,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.8,932,If I Stay,R.J. Cutler,Chloë Grace Moretz,92170,46,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+5.4,933,The Ticket,Ido Fluk,Dan Stevens,924,52,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.3,934,Detour,Christopher Smith,Tye Sheridan,2205,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.2,935,The Love Witch,Anna Biller,Samantha Robinson,4669,82,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.6,936,Talladega Nights: The Ballad of Ricky Bobby,Adam McKay,Will Ferrell,137502,66,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+4.4,937,The Human Centipede (First Sequence),Tom Six,Dieter Laser,60655,33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.8,938,Super,James Gunn,Rainn Wilson,64535,50,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,939,The Siege of Jadotville,Richie Smyth,Jamie Dornan,14689,83,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.4,940,Up in the Air,Jason Reitman,George Clooney,279694,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+6.1,941,The Midnight Meat Train,Ryûhei Kitamura,Vinnie Jones,50255,58,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+4.9,942,The Twilight Saga: Eclipse,David Slade,Kristen Stewart,192740,58,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+5.8,943,Transpecos,Greg Kwedar,Johnny Simmons,1292,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6.1,944,What's Your Number?,Mark Mylod,Anna Faris,62095,35,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+6.4,945,Riddick,David Twohy,Vin Diesel,132098,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6.9,946,Triangle,Christopher Smith,Melissa George,72533,66,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+7.2,947,The Butler,Lee Daniels,Forest Whitaker,93322,,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5.6,948,King Cobra,Justin Kelly,Garrett Clayton,3990,48,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+4.9,949,After Earth,M. Night Shyamalan,Jaden Smith,166512,33,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6.1,950,Kicks,Justin Tipping,Jahking Guillory,2417,69,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.8,951,Me and Earl and the Dying Girl,Alfonso Gomez-Rejon,Thomas Mann,92076,74,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.3,952,The Descendants,Alexander Payne,George Clooney,211348,84,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+4.3,953,Sex and the City 2,Michael Patrick King,Sarah Jessica Parker,62403,27,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.2,954,The Kings of Summer,Jordan Vogt-Roberts,Nick Robinson,65653,61,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.4,955,Death Race,Paul W.S. Anderson,Jason Statham,173731,43,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+6.2,956,That Awkward Moment,Tom Gormican,Zac Efron,81823,36,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+5.2,957,Legion,Scott Stewart,Paul Bettany,84158,32,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+7.7,958,End of Watch,David Ayer,Jake Gyllenhaal,192190,68,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+6.2,959,3 Days to Kill,McG,Kevin Costner,73567,40,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7.8,960,Lucky Number Slevin,Paul McGuigan,Josh Hartnett,271940,53,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+7,961,Trance,Danny Boyle,James McAvoy,97141,61,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.9,962,Into the Forest,Patricia Rozema,Ellen Page,10220,59,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+6.7,963,The Other Boleyn Girl,Justin Chadwick,Natalie Portman,88260,50,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.3,964,I Spit on Your Grave,Steven R. Monroe,Sarah Butler,60133,27,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1
+6.9,965,Custody,James Lapine,Viola Davis,280,72,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,966,Inland Empire,David Lynch,Laura Dern,44227,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+6.7,967,L'odyssée,Jérôme Salle,Lambert Wilson,1810,70,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.3,968,The Walk,Robert Zemeckis,Joseph Gordon-Levitt,92378,,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3.5,969,Wrecker,Micheal Bafaro,Anna Hutchison,1210,37,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.5,970,The Lone Ranger,Gore Verbinski,Johnny Depp,190855,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+4.8,971,Texas Chainsaw 3D,John Luessenhop,Alexandra Daddario,37060,62,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.9,972,Disturbia,D.J. Caruso,Shia LaBeouf,193491,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5.9,973,Rock of Ages,Adam Shankman,Julianne Hough,64513,47,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+6.2,974,Scream 4,Wes Craven,Neve Campbell,108544,52,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.4,975,Queen of Katwe,Mira Nair,Madina Nalwanga,6753,73,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+6,976,My Big Fat Greek Wedding 2,Kirk Jones,Nia Vardalos,20966,37,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+6.2,977,Dark Places,Gilles Paquet-Brenner,Charlize Theron,31634,39,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+5,978,Amateur Night,Lisa Addario,Jason Biggs,2229,38,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,979,It's Only the End of the World,Xavier Dolan,Nathalie Baye,10658,48,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7.6,980,The Skin I Live In,Pedro Almodóvar,Antonio Banderas,108772,70,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+7,981,Miracles from Heaven,Patricia Riggen,Jennifer Garner,12048,44,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+5.3,982,Annie,Will Gluck,Quvenzhané Wallis,27312,33,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+7.4,983,Across the Universe,Julie Taymor,Evan Rachel Wood,95172,56,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+6.5,984,Let's Be Cops,Luke Greenfield,Jake Johnson,112729,30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.8,985,Max,Boaz Yakin,Thomas Haden Church,21405,47,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5.6,986,Your Highness,David Gordon Green,Danny McBride,87904,31,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+5.9,987,Final Destination 5,Steven Quale,Nicholas D'Agosto,88000,50,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6.3,988,Endless Love,Shana Feste,Gabriella Wilde,33688,30,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+7.1,989,Martyrs,Pascal Laugier,Morjana Alaoui,63785,89,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+7.5,990,Selma,Ava DuVernay,David Oyelowo,67637,,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+6.6,991,Underworld: Rise of the Lycans,Patrick Tatopoulos,Rhona Mitra,129708,44,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8.5,992,Taare Zameen Par,Aamir Khan,Darsheel Safary,102697,42,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+6.3,993,Take Me Home Tonight,Michael Dowse,Topher Grace,45419,,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.9,994,Resident Evil: Afterlife,Paul W.S. Anderson,Milla Jovovich,140900,37,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.7,995,Project X,Nima Nourizadeh,Thomas Mann,164088,48,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6.2,996,Secret in Their Eyes,Billy Ray,Chiwetel Ejiofor,27585,45,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+5.5,997,Hostel: Part II,Eli Roth,Lauren German,73152,46,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+6.2,998,Step Up 2: The Streets,Jon M. Chu,Robert Hoffman,70699,50,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+5.6,999,Search Party,Scot Armstrong,Adam Pally,4881,22,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5.3,1000,Nine Lives,Barry Sonnenfeld,Kevin Spacey,12435,11,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
