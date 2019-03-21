@@ -1,62 +1,62 @@
-Destination,Type,Stars,Continent,Prices,Would visit again,Customer Name
-Punta Cana,Beach,5,America,Average,Yes,Kruse
-Paris,City,2,Europe,Expensive,No,Lukasz
-Madrid,City,5,Europe,Expensive,Yes,Kruse
-Madrid,History,5,Europe,Average,Yes,Lukasz
-Aruba,Beach,5,America,Expensive,Yes,Kruse
-Venice,City,4,Europe,Average,Yes,Kruse
-Las Vegas,City,5,America,Avergage,Yes,Kruse
-Rome,History,4,Europe,Expensive,Yes,Kruse
-Bengalore,City,4,Asia,Average,Yes,Lukasz
-Fortaleza,Beach,5,America,Average,Yes,Lukasz
-Pragha,City,4,Europe,Cheap,Yes,Lukasz
-Porto Seguro,Beach,3,America,Cheap,Yes,Kruse
-Floripa,Beach,4,America,Average,Yes,Lukasz
-XYZ,Beach,2,Any,Expensive,No,Lukasz
-RPA,Beach,3,Africa,Cheap,Yes,Lukasz
-Fortaleza,Beach,3,America,Average,No,Kruse
-Montego Bay,Beach,4,America,Average,Yes,Kruse
-Cancun,Beach,5,America,Average,Yes,Kruse
-New York,City,5,America,Expensive,Yes,Kruse
-Barcelona,City,4,Europe,Expensive,Yes,Lukasz
-Miami,City,4,America,Expensive,Yes,Andre
-London,City,4,Europe,Expensive,Yes,Kruse
-Lisboa,City,4,Europe,Expensive,Yes,Andre
-Serra da Estrela,Mountain,3,Europe,Expensive,Yes,Andre
-Santiago,City,4,Europe,Average,Yes,Andre
-Fernando de Noronha,Beach,5,America,Expensive,Yes,Andre
-Chicago,City,4,America,Expensive,Yes,Andre
-New York,City,5,America,Expensive,Yes,Andre
-Torres,Beach,4,America,Cheap,Yes,Andre
-Gramado,Mountain,4,America,Cheap,Yes,Andre
-Canela,Mountain,4,America,Cheap,Yes,Andre
-Morro de São Paulo,Beach,4,America,Expensive,Yes,Andre
-Orlando,City,4,America,Expensive,Yes,Andre
-France,City,4,Europe,Expensive,Yes,Kruse
-Lisboa,City,4,Europe,Expensive,Yes,Andre
-Viana do Castelao,City,3,Europe,Expensive,Yes,Andre
-Bariloche,Mountain,4,America,Expensive,Yes,Andre
-Pontas de Pedra,Beach,5,America,Expensive,Yes,Andre
-Austin,City,4,America,Expensive,Yes,Andre
-Savanna,City,5,America,Expensive,Yes,Andre
-Xangri-la,Beach,4,America,Cheap,Yes,Andre
-Daniela,Beach,4,America,Average,Yes,Andre
-Garibalde,City,4,America,Cheap,Yes,Andre
-Paria do Forte,Beach,4,America,Expensive,Yes,Andre
-Toronto,City,5,America,Expensive,Yes,Andre
-Torres,Beach,4,America,Cheap,Yes,Andre
-Gramado,Mountain,4,America,Cheap,Yes,Andre
-Canela,Mountain,4,America,Cheap,Yes,Andre
-Itamaraca,Beach,4,America,Expensive,Yes,Andre
-Filadelfia,City,4,America,Expensive,Yes,Andre
-Amarante,City,4,Europe,Expensive,Yes,Kruse
-Barcelona,City,4,Europe,Expensive,Yes,Andre
-Braga,City,3,Europe,Expensive,Yes,Andre
-Buenos Aries,City,4,America,Expensive,Yes,Andre
-Pontas de Pedra,Beach,5,America,Expensive,Yes,Andre
-Fayettvile,City,4,America,Expensive,Yes,Andre
-St Autgustine,City,5,America,Expensive,Yes,Andre
-Capao,Beach,4,America,Cheap,Yes,Andre
-Daniela,Beach,4,America,Average,Yes,Andre
-Garibaldi,City,4,America,Cheap,Yes,Andre
-Paria do Forte,Beach,4,America,Expensive,Yes,Andre
+Destination,DestinationType,Stars,Liked,Continent,ContinentNum,Prices,PriceInNumbers,Liked2,Would visit again,WouldVisitAgainNum,IsBeach,IsCity,IsHistorical,IsMountain,Customer Name
+Punta Cana,Beach,5,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Kruse
+Paris,City,2,0,Europe,2,Expensive,12000,0,No,0,0,1,0,0,Lukasz
+Madrid,City,5,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Kruse
+Madrid,Historical,5,1,Europe,2,Average,7000,1,Yes,1,0,0,1,0,Lukasz
+Aruba,Beach,5,1,America,1,Expensive,12000,1,Yes,1,1,0,0,0,Kruse
+Venice,City,4,1,Europe,2,Average,7000,1,Yes,1,0,1,0,0,Kruse
+Las Vegas,City,5,1,America,1,Avergage,1000,0,Yes,1,0,1,0,0,Kruse
+Rome,Historical,4,1,Europe,2,Expensive,12000,0,Yes,1,0,0,1,0,Kruse
+Bengalore,City,4,1,Asia,4,Average,7000,1,Yes,1,0,1,0,0,Lukasz
+Fortaleza,Beach,5,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Lukasz
+Pragha,City,4,1,Europe,2,Average,7000,1,Yes,1,0,1,0,0,Lukasz
+Porto Seguro,Beach,3,0,America,1,Average,7000,1,Yes,1,1,0,0,0,Kruse
+Floripa,Beach,4,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Lukasz
+Sidney,Beach,2,0,Australia,6,Expensive,12000,0,No,0,1,0,0,0,Lukasz
+RPA,Beach,3,0,Africa,5,Average,7000,1,Yes,1,1,0,0,0,Lukasz
+Fortaleza,Beach,3,0,America,1,Average,7000,1,No,0,1,0,0,0,Kruse
+Montego Bay,Beach,4,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Kruse
+Cancun,Beach,5,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Kruse
+New York,City,5,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Kruse
+Barcelona,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Lukasz
+Miami,City,4,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+London,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Kruse
+Lisboa,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Serra da Estrela,Mountain,3,0,Europe,2,Expensive,12000,0,Yes,1,0,0,0,1,Andre
+Santiago,City,4,1,Europe,2,Average,7000,1,Yes,1,0,1,0,0,Andre
+Fernando de Noronha,Beach,5,1,America,1,Expensive,12000,0,Yes,1,1,0,0,0,Andre
+Chicago,City,4,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+New York,City,5,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Torres,Beach,4,1,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
+Gramado,Mountain,4,1,America,1,Cheap,1000,1,Yes,1,0,0,0,1,Andre
+Canela,Mountain,4,1,America,1,Cheap,1000,0,Yes,1,0,0,0,1,Andre
+Morro de São Paulo,Beach,4,1,America,1,Expensive,12000,0,Yes,1,1,0,0,0,Andre
+Orlando,City,4,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+France,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Kruse
+Lisboa,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Viana do Castelao,City,3,0,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Bariloche,Mountain,4,1,America,1,Expensive,12000,0,Yes,1,0,0,0,1,Andre
+Pontas de Pedra,Beach,5,1,America,1,Expensive,12000,0,Yes,1,1,0,0,0,Andre
+Austin,City,4,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Savanna,City,5,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Xangri-la,Beach,4,1,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
+Daniela,Beach,4,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Andre
+Garibaldi,City,1,0,America,1,Cheap,1000,0,Yes,1,0,1,0,0,Andre
+Praia do Forte,Beach,1,0,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
+Toronto,City,5,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Torres,Beach,1,0,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
+Gramado,Mountain,4,1,America,1,Cheap,1000,0,Yes,1,0,0,0,1,Andre
+Canela,Mountain,4,1,America,1,Cheap,1000,0,Yes,1,0,0,0,1,Andre
+Itamaraca,Beach,4,1,America,1,Average,7000,1,Yes,1,1,0,0,0,Andre
+Filadelfia,City,4,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Amarante,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Kruse
+Barcelona,City,4,1,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Braga,City,3,0,Europe,2,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Buenos Aries,City,4,1,America,1,Average,7000,1,Yes,1,0,1,0,0,Andre
+Pontas de Pedra,Beach,5,1,America,1,Expensive,12000,0,Yes,1,1,0,0,0,Andre
+Fayettvile,City,4,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+St Autgustine,City,5,1,America,1,Expensive,12000,0,Yes,1,0,1,0,0,Andre
+Capao,Beach,2,0,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
+Daniela,Beach,3,0,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
+Garibaldi,City,3,0,America,1,Cheap,1000,0,Yes,1,0,1,0,0,Andre
+Praia do Forte,Beach,4,1,America,1,Cheap,1000,0,Yes,1,1,0,0,0,Andre
